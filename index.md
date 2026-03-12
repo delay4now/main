@@ -19,32 +19,32 @@ Rather, we suggest watching them as starting points for thought and discussion, 
   Raises the question: was he the Messiah or not?
 
 - **[Sacred Games (TV series)](https://en.wikipedia.org/wiki/Sacred_Games_%28TV_series%29)**  
-  Full of exciting elements—won’t spoil the plot, but very engaging.
+  Full of exciting elements.
 
 - **[Love, Death & Robots](https://en.wikipedia.org/wiki/Love%2C_Death_%26_Robots)** – Volume 1  
   Includes standout episodes such as *Zima Blue*, *Ice Age*, *The Witness*, and *Good Hunting*.
 
 # Recommended Movies
 
-- **[The Fountain](https://en.wikipedia.org/wiki/The_Fountain)** (Hugh Jackman)  
+- **[The Fountain](https://en.wikipedia.org/wiki/The_Fountain)** featuring Hugh Jackman  
   A symbolic take on afterlife.
 
-- **[Hero](https://en.wikipedia.org/wiki/Hero_(2002_film))** (Jet Li)  
+- **[Hero](https://en.wikipedia.org/wiki/Hero_(2002_film))** featuring Jet Li  
   On convictions and actions.
 
-- **[Lagaan](https://en.wikipedia.org/wiki/Lagaan)**  
-  A light take on British Raj in India + cricket.
+- **[Lagaan](https://en.wikipedia.org/wiki/Lagaan)** in Hindi  
+  A light take on British Raj in India and cricket.
 
-- **[Gandhi](https://en.wikipedia.org/wiki/Gandhi_(film))**  
+- **[Gandhi](https://en.wikipedia.org/wiki/Gandhi_(film))** featuring Ben Kingsley
   Was it so difficult to understand what he was saying?
 
-- **[Dharm](https://en.wikipedia.org/wiki/Dharm_(film))** (Pankaj Kapur)  
+- **[Dharm](https://en.wikipedia.org/wiki/Dharm_(film))** in Hindi  
   On traditional society and its breakdown.
 
-- **[Cycle](https://en.wikipedia.org/wiki/Cycle_(film))** (Marathi)  
-  World was not always this cynical.
+- **[Cycle](https://en.wikipedia.org/wiki/Cycle_(2018_film))** in Marathi  
+  The world was not always this cynical.
 
-- **[The Disciple](https://en.wikipedia.org/wiki/The_Disciple_(film))** (Marathi)  
+- **[The Disciple](https://en.wikipedia.org/wiki/The_Disciple_(2020_film))** in Marathi  
   What is music (or any “activity” for that matter) for?
 
 - **[Spring, Summer, Fall, Winter... and Spring](https://en.wikipedia.org/wiki/Spring,_Summer,_Fall,_Winter..._and_Spring)**  
@@ -54,7 +54,7 @@ Rather, we suggest watching them as starting points for thought and discussion, 
   This is how the world is going to be if not for a “miracle”.
 
 - **[The Book of Eli](https://en.wikipedia.org/wiki/The_Book_of_Eli)**  
-  Even a warlord in post‑apocalyptic world is searching for “it”.
+  Even a warlord in a post‑apocalyptic world is searching for “it”.
 
 - **[Unforgiven](https://en.wikipedia.org/wiki/Unforgiven_(film))**  
   Crimes will be punished eventually, if only by an anti‑hero.
@@ -65,14 +65,14 @@ Rather, we suggest watching them as starting points for thought and discussion, 
 - **[The Matrix](https://en.wikipedia.org/wiki/The_Matrix)**  
   Red pill?
 
-- **[Little Buddha](https://en.wikipedia.org/wiki/Little_Buddha)** (Keanu Reeves)  
+- **[Little Buddha](https://en.wikipedia.org/wiki/Little_Buddha)** featuring Keanu Reeves  
   Buddha.
 
 - **[The Lord of the Rings: The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)**, **[The Lord of the Rings: The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)**, **[The Lord of the Rings: The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)**  
   Was Frodo’s quest rational in terms of success probability?
 
-- **[Dune (film)](https://en.wikipedia.org/wiki/Dune_(film))**, **[Dune: Part Two](https://en.wikipedia.org/wiki/Dune:_Part_Two)**  
+- **[Dune (2021 film)](https://en.wikipedia.org/wiki/Dune_(2021_film))**, **[Dune: Part Two](https://en.wikipedia.org/wiki/Dune:_Part_Two)**  
   Were the Fremen “evil”?
 
-- **[The Last Samurai](https://en.wikipedia.org/wiki/The_Last_Samurai)** (Tom Cruise)  
+- **[The Last Samurai](https://en.wikipedia.org/wiki/The_Last_Samurai)** featuring Tom Cruise  
   Was an honorable way of living lost?
