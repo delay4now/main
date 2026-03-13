@@ -79,7 +79,7 @@ Rather, we suggest watching them as starting points for thought and discussion, 
 
 - **[Dune (2021 film)](https://en.wikipedia.org/wiki/Dune_(2021_film))**, **[Dune: Part Two](https://en.wikipedia.org/wiki/Dune:_Part_Two)** featuring Timothée Chalamet, Zendaya  
   Were the Fremen “evil”?
-  - <span style="background-color: yellow;">Some reflections on the movie can be found [here](https://delay4now.github.io/main/dune-relections-01.html/).</span>
-
+  - <span style="background-color: yellow;">Some reflections on the two films can be found [here](dune-relections-01.md).</span>
+ 
 - **[The Last Samurai](https://en.wikipedia.org/wiki/The_Last_Samurai)** featuring Tom Cruise  
   Was an honorable way of living lost?
