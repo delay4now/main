@@ -9,7 +9,7 @@ the tree: if the rebels could succeed they would find that they had destroyed th
 
 # Purpose of This Website
 
-Given the complexity of our current geopolitical climate, it has become increasingly difficult to engage in open conversation without fear of offending someone, let alone to reach meaningful understanding. In this context, we find metaphors and symbols expressed through movies and television shows to be a more effective way of conveying certain ideas.
+Given the complexity of our current geopolitical and cultural climate, it has become increasingly difficult to engage in open conversation without fear of offending someone, let alone to reach meaningful understanding. In this context, we find metaphors and symbols expressed through movies and television shows to be a more effective way of conveying certain ideas.
 
 Visual storytelling can be remarkably powerful. It allows us to explore themes indirectly, without directly invoking contentious issues. It requires relatively little time to engage with, and the element of entertainment is an added benefit. Below we offer a very partial list of movies and TV shows that we believe provide insight and have been helpful for reflecting on the world. This is not a claim that these are “great” films from a filmmaking standpoint, nor that any one of them is profound on its own.
 
@@ -31,16 +31,16 @@ Rather, we suggest watching them as starting points for thought and discussion, 
 
 # Recommended Movies
 
-- **[The Fountain](https://en.wikipedia.org/wiki/The_Fountain)** featuring Hugh Jackman  
-  A symbolic take on afterlife.
+- **[The Fountain](https://en.wikipedia.org/wiki/The_Fountain)** featuring Hugh Jackman, Rachel Weisz  
+  A symbolic take on "afterlife".
 
-- **[Hero](https://en.wikipedia.org/wiki/Hero_(2002_film))** featuring Jet Li  
+- **[Hero](https://en.wikipedia.org/wiki/Hero_(2002_film))** in Mandarin featuring Jet Li, Donnie Yen  
   On convictions and actions.
 
-- **[Lagaan](https://en.wikipedia.org/wiki/Lagaan)** in Hindi  
+- **[Lagaan](https://en.wikipedia.org/wiki/Lagaan)** in Hindi featuring Aamir Khan  
   A light take on British Raj in India and cricket.
 
-- **[Gandhi](https://en.wikipedia.org/wiki/Gandhi_(film))** featuring Ben Kingsley
+- **[Gandhi](https://en.wikipedia.org/wiki/Gandhi_(film))** featuring Ben Kingsley  
   Was it so difficult to understand what he was saying?
 
 - **[Dharm](https://en.wikipedia.org/wiki/Dharm_(film))** in Hindi  
@@ -52,31 +52,31 @@ Rather, we suggest watching them as starting points for thought and discussion, 
 - **[The Disciple](https://en.wikipedia.org/wiki/The_Disciple_(2020_film))** in Marathi  
   What is music (or any “activity” for that matter) for?
 
-- **[Spring, Summer, Fall, Winter... and Spring](https://en.wikipedia.org/wiki/Spring,_Summer,_Fall,_Winter..._and_Spring)**  
+- **[Spring, Summer, Fall, Winter... and Spring](https://en.wikipedia.org/wiki/Spring,_Summer,_Fall,_Winter..._and_Spring)** in Korean  
   “Life” is cyclical.
 
-- **[Mad Max: Fury Road](https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road)**  
+- **[Mad Max: Fury Road](https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road)** featuring Charlize Theron  
   This is how the world is going to be if not for a “miracle”.
 
-- **[The Book of Eli](https://en.wikipedia.org/wiki/The_Book_of_Eli)**  
-  Even a warlord in a post‑apocalyptic world is searching for “it”.
+- **[The Book of Eli](https://en.wikipedia.org/wiki/The_Book_of_Eli)** featuring Denzel Washington, Gary Oldman  
+  Even a warlord in a post-apocalyptic world is searching for “it”.
 
-- **[Unforgiven](https://en.wikipedia.org/wiki/Unforgiven_(film))**  
-  Crimes will be punished eventually, if only by an anti‑hero.
+- **[Unforgiven](https://en.wikipedia.org/wiki/Unforgiven_(film))** featuring Clint Eastwood, Morgan Freeman  
+  Crimes will be punished eventually, if only by an anti-hero.
 
-- **[Kill Bill: Volume 1](https://en.wikipedia.org/wiki/Kill_Bill:_Volume_1)**, **[Kill Bill: Volume 2](https://en.wikipedia.org/wiki/Kill_Bill:_Volume_2)**  
+- **[Kill Bill: Volume 1](https://en.wikipedia.org/wiki/Kill_Bill:_Volume_1)**, **[Kill Bill: Volume 2](https://en.wikipedia.org/wiki/Kill_Bill:_Volume_2)** featuring Uma Thurman  
   Watching extreme violence with detachment?
 
-- **[The Matrix](https://en.wikipedia.org/wiki/The_Matrix)**  
+- **[The Matrix](https://en.wikipedia.org/wiki/The_Matrix)** featuring Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss  
   Red pill?
 
 - **[Little Buddha](https://en.wikipedia.org/wiki/Little_Buddha)** featuring Keanu Reeves  
   Buddha.
 
-- **[The Lord of the Rings: The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)**, **[The Lord of the Rings: The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)**, **[The Lord of the Rings: The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)**  
+- **[The Lord of the Rings: The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)**, **[The Lord of the Rings: The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)**, **[The Lord of the Rings: The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)**
   Was Frodo’s quest rational in terms of success probability?
 
-- **[Dune (2021 film)](https://en.wikipedia.org/wiki/Dune_(2021_film))**, **[Dune: Part Two](https://en.wikipedia.org/wiki/Dune:_Part_Two)**  
+- **[Dune (2021 film)](https://en.wikipedia.org/wiki/Dune_(2021_film))**, **[Dune: Part Two](https://en.wikipedia.org/wiki/Dune:_Part_Two)** featuring Timothée Chalamet, Zendaya
   Were the Fremen “evil”?
 
 - **[The Last Samurai](https://en.wikipedia.org/wiki/The_Last_Samurai)** featuring Tom Cruise  
