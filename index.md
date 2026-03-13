@@ -13,8 +13,8 @@ Rather, we suggest watching them as starting points for thought and discussion, 
 # Recommended TV Shows
 
 - **[Kurukshetra: The Great War of Mahabharata (2025)](https://en.wikipedia.org/wiki/Kurukshetra%3A_The_Great_War_of_Mahabharata)**  
-  Explores metaphysics, morality, and pragmatics. Some commentary on the show can be found [here](https://delay4now.github.io/kurukshetra-commentary/).
-
+  Explores metaphysics, morality, and pragmatics. <span style="background-color: yellow;">Some commentary on the show can be found [here](https://delay4now.github.io/kurukshetra-commentary/).</span>
+  
 - **[Messiah (American TV series)](https://en.wikipedia.org/wiki/Messiah_%28American_TV_series%29)**  
   Raises the question: was he the Messiah or not?
 
