@@ -18,7 +18,8 @@ Rather, we suggest watching them as starting points for thought and discussion, 
 # Recommended TV Shows
 
 - **[Kurukshetra: The Great War of Mahabharata (2025)](https://en.wikipedia.org/wiki/Kurukshetra%3A_The_Great_War_of_Mahabharata)**  
-  Explores metaphysics, morality, and pragmatics. <span style="background-color: yellow;">Some commentary on the show can be found [here](https://delay4now.github.io/kurukshetra-commentary/).</span>
+  Explores metaphysics, morality, and pragmatics.
+  - <span style="background-color: yellow;">Some commentary on the show can be found [here](https://delay4now.github.io/kurukshetra-commentary/).</span>
   
 - **[Messiah (American TV series)](https://en.wikipedia.org/wiki/Messiah_%28American_TV_series%29)**  
   Raises the question: was he the Messiah or not?
@@ -78,6 +79,7 @@ Rather, we suggest watching them as starting points for thought and discussion, 
 
 - **[Dune (2021 film)](https://en.wikipedia.org/wiki/Dune_(2021_film))**, **[Dune: Part Two](https://en.wikipedia.org/wiki/Dune:_Part_Two)** featuring Timothée Chalamet, Zendaya  
   Were the Fremen “evil”?
+  - <span style="background-color: yellow;">Some reflections on the movie can be found [here](https://delay4now.github.io/main/dune-relections-01.html/).</span>
 
 - **[The Last Samurai](https://en.wikipedia.org/wiki/The_Last_Samurai)** featuring Tom Cruise  
   Was an honorable way of living lost?
