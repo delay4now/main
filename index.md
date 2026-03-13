@@ -1,6 +1,11 @@
 # What Do We Believe?
 
-We believe  
+We believe that there is no lasting remedy for the increasing chaos in the world other than the spiritual. We take the spiritual and the intellectual to be synonymous, provided the scope of the latter is understood in its deepest and broadest form. The following words from unnamed authors illustrate the spirit of what we mean.
+
+*"The rebellion of new ideologies against the Tao is a rebellion of the branches against 
+the tree: if the rebels could succeed they would find that they had destroyed themselves."*
+
+*"The reign of violence will never come to an end until, first, most human beings accept the same, true philosophy of life; until, second, this Perennial Philosophy is recognized as the highest factor common to all the world religions; until, third, the adherents of every religion renounce the idolatrous time-philosophies, with which, in their own particular faith, the Perennial Philosophy of eternity has been overlaid; until, fourth, there is a world-wide rejection of all the political pseudo-religions, which place man's supreme good in future time and therefore justify and commend the commission of every sort of present iniquity as a means to that end. If these conditions are not fulfilled, no amount of political planning, no economic blue-prints however ingeniously drawn, can prevent the recrudescence of war and revolution."*
 
 # Purpose of This Website
 
