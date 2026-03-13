@@ -73,10 +73,10 @@ Rather, we suggest watching them as starting points for thought and discussion, 
 - **[Little Buddha](https://en.wikipedia.org/wiki/Little_Buddha)** featuring Keanu Reeves  
   Buddha.
 
-- **[The Lord of the Rings: The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)**, **[The Lord of the Rings: The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)**, **[The Lord of the Rings: The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)**
+- **[The Lord of the Rings: The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)**, **[The Lord of the Rings: The Two Towers](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers)**, **[The Lord of the Rings: The Return of the King](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)**  
   Was Frodo’s quest rational in terms of success probability?
 
-- **[Dune (2021 film)](https://en.wikipedia.org/wiki/Dune_(2021_film))**, **[Dune: Part Two](https://en.wikipedia.org/wiki/Dune:_Part_Two)** featuring Timothée Chalamet, Zendaya
+- **[Dune (2021 film)](https://en.wikipedia.org/wiki/Dune_(2021_film))**, **[Dune: Part Two](https://en.wikipedia.org/wiki/Dune:_Part_Two)** featuring Timothée Chalamet, Zendaya  
   Were the Fremen “evil”?
 
 - **[The Last Samurai](https://en.wikipedia.org/wiki/The_Last_Samurai)** featuring Tom Cruise  
