@@ -59,13 +59,15 @@ It is remarkable how Gandhi could take fundamental abstract principles and deriv
 > GANDHI: If I die, perhaps they will.
 
 ### Remark on the Quote
-As alluded to in the previous remark, 
+As noted in earlier remarks, for Gandhi the integrity of the path mattered far more than the allure of any end, however just.
 
-The Chauri Chaura incident compelled Mahatma Gandhi to make a wrenching choice: to halt a movement he had nurtured for years, sacrificing political momentum to uphold the sanctity of nonviolence. In doing so, he showed that for him, the integrity of the path was far weightier than the allure of any end, however just.
+Modern philosophers have repeatedly raised similar concerns about the aftermath of revolutions. For example, Slavoj Žižek discusses this issue in [this talk](https://www.youtube.com/watch?v=U7JgfB8PaAk). The French Revolution provides a vivid illustration: the uprising of the commoners against the monarchy and aristocracy unleashed a wave of popular violence. Initially fueled by demands for liberty and equality, the movement soon became bloodthirsty, culminating in the widespread use of the guillotine. This violent phase, known as the [Reign of Terror](https://en.wikipedia.org/wiki/Reign_of_Terror) (1793–1794), eventually ended through exhaustion, political infighting, and the collapse of revolutionary leadership.
+
+Gandhi seems to have been acutely aware of this risk. His actions, such as personally fasting to restrain popular unrest, reflect his foresight and his focus on preparing people for moral and spiritual self-governance, rather than merely achieving independence. It seems to me that the quality of the individual and collective character was his true goal, and that political freedom was meaningful only if grounded in ethical and spiritual development.
 
 ## Pursuit of Opportunity
 
-### Quote 10
+### Quote 9
 > SMUTS: I have thought of calling for a Royal Commission to "investigate" the new legislation. I think I could guarantee they would recommend the Act be repealed.
 > 
 > GANDHI: I congratulate them.
@@ -74,7 +76,7 @@ The Chauri Chaura incident compelled Mahatma Gandhi to make a wrenching choice: 
 >
 > GANDHI: Immigration was not an issue on which we fought. It would be wrong of us to make it one now that we, we are in a position of advantage.
 
-### Quote 11
+### Quote 10
 > GANDHI: But I want to change their minds, not kill them for weaknesses we all possess.
 >
 > AZAD: And what "resistance" would you offer?
@@ -85,7 +87,7 @@ The Chauri Chaura incident compelled Mahatma Gandhi to make a wrenching choice: 
 >
 > GANDHI: I mean a day of prayer and fasting. But of course no work could be done, no buses, no trains, no factories, no administration. The country would stop.
 
-### Quote 12
+### Quote 11
 > GANDHI: They are preparing for war. I will not support it, but I do not intend to take advantage of their danger.
 >
 > PATEL: That's when you take advantage.
@@ -93,11 +95,13 @@ The Chauri Chaura incident compelled Mahatma Gandhi to make a wrenching choice: 
 > GANDHI: No. That is just another way of striking back. We have come a long way together with the British. When they leave we want to see them off as friends.
 
 ### Remark on the Quotes
+Gandhi avoided exploiting opportunities to punish or take advantage of the British. If he had done so, they might have felt victimized or humiliated. Such a perception would have blocked their self-reflection and hindered their ability to grow.
 
+At the same time, these quotes demonstrate how shrewd Gandhi could be when he chose to be, as seen in his oratory and in symbolic acts like the [Dandi March/Salt Satyagraha](https://en.wikipedia.org/wiki/Dandi_March). He carefully distinguished between being opportunistic (as in [Quote 10](#quote-10)) and being exploitative (as in [Quote 9](#quote-9) and [Quote 11](#quote-11)), ensuring that his actions preserved the possibility of moral and spiritual development, even in his adversaries.
 
 ## Vision of Happiness
 
-### Quote 13
+### Quote 12
 > GANDHI: But I know happiness does not come with things, even twentieth century things. It can come from work, and pride in what you do. It will not necessarily be "progress" for India if she simply imports the unhappiness of the West.
 
 ### Remark on the Quote
@@ -105,12 +109,12 @@ The quote “Happiness is when what you think, what you say, and what you do are
 
 ## On International Affairs
 
-### Quote 14
+### Quote 13
 > BOURKE-WHITE: You really are going to Pakistan, then? You are a stubborn man.
 >
 > GANDHI: I'm simply going to prove to Muslims there, and Hindus here, that the only devils in the world are those running around in our own hearts, and that's where all our battles ought to be fought.
 
-### Quote 15
+### Quote 14
 > BOURKE-WHITE: But do you really believe you could use non-violence against someone like Hitler?
 >
 > GANDHI: Not without defeats, and great pain. He looks at her. But are there no defeats in this war, no pain? For a moment the thought hangs, and then Gandhi takes their hands back to the spinning. What you cannot do is accept injustice. From Hitler, or anyone. You must make the injustice visible, be prepared to die like a soldier to do so. Every enemy is a human being, even the worst of them. And he believes he is right and you are a beast. And now a little smile. And if you beat him over the head you will only convince him. But you suffer, to show him that he is wrong. Your sacrifice creates an atmosphere of understanding, if not with him, then in the hearts of the rest of the community on whom he depends.
