@@ -5,6 +5,10 @@ Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org
 ## On Fighting
 
 ### Quote 1
+> GANDHI: I praise such courage. I need such courage, because in this cause I too am prepared to die. But, my friend, there is no cause for which I am prepared to kill ... They will imprison us, they will fine us. They will seize our possessions. But they cannot take away our self-respect if we do not give it to them.
+> 
+> VOICE FROM THE GALLERY: Have you been to prison? They'll beat us and torture us! I say --
+> 
 > GANDHI: I am asking you to fight! To fight against their anger, not to provoke it! We will not strike a blow, but we will receive them. And through our pain we will make them see their injustice, and it will hurt, as all fighting hurts! But we cannot lose. We cannot. Because they may torture my body, may break my bones, even kill me... They will then have my dead body, not my obedience.
 
 ### Quote 2
@@ -18,9 +22,6 @@ Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org
 > GANDHI: Third, we must defy the British. Not with violence that will inflame their will, but with firmness that will open their eyes.
 
 ### Quote 4
-> GANDHI: I praise such courage. I need such courage, because in this cause I too am prepared to die... But, my friend, there is no cause for which I am prepared to kill. They will imprison us, they will fine us. They will seize our possessions. But they cannot take away our self-respect if we do not give it to them.
-
-### Quote 5
 > GANDHI: Because forgiveness is the gift of the brave.
 
 ### Remark on the Quotes
@@ -30,34 +31,44 @@ Personally, I find [Quote 2](#quote-2) especially instructive. It is common to f
 
 ## Practical Ways to Fight
 
-### Quote 6
+### Quote 5
 > ADVOCATE GENERAL: "...Non-co-operation has one aim: the overthrow of the Government. Sedition must become our creed. We must give no quarter, nor can we expect any." Signed M. K. Gandhi, in your journal *Young India*, dated twenty-second March of this year. Do you deny writing it?
 >
 > GANDHI: Not at all. And I will save the Court's time, M'Lord, by stating under oath that to this day I believe non-co-operation with evil is a duty, and that British rule of India is evil.
 
-### Quote 7
+### Quote 6
 > GANDHI: Yes... in the end you will walk out. Because one hundred thousand Englishmen simply cannot control three hundred fifty million Indians if the Indians refuse to co-operate. And that is what we intend to achieve, peaceful, non-violent, non-co-operation.
 >
 > GANDHI: Until you yourself see the wisdom of leaving, your Excellency.
 
-### Quote 8
+### Quote 7
 > GANDHI: The function of a civil resister is to provoke response. And we will continue to provoke until they respond, or they change the law. They are not in control, we are. That is the strength of civil resistance.
 
 ### Remark on the Quotes
-
+It is remarkable how Gandhi could take fundamental abstract principles and derive concrete, actionable plans from them. A key example is his development of the concept of [Satyagraha](https://en.wikipedia.org/wiki/Satyagraha) as a form of civil resistance. In *Young India* (*Navajivan*), 23 February 1930 ([source](https://library.bjp.org/jspui/handle/123456789/618)), he wrote that the first rule of Satyagraha is to harbor no anger — and people actually followed it! In my opinion, the ability to instill such moral discipline and foster inner transformation in others is far greater than achieving results through Satyagraha itself.
 
 ## Becoming as the Goal
 
-### Quote 9
+### Quote 8
 > GANDHI: An eye for an eye only ends up making the whole world blind... If we obtain our freedom by murder and bloodshed I want no part of it.
-
-### Quote 10
+> 
 > GANDHI: I will ask. And I will fast as penance for my part in arousing such emotions, and I will not stop until they stop.
 
-### Remark on the Quotes
+### Remark on the Quote
+As alluded to in the previous remark, 
 
+The Chauri Chaura incident compelled Mahatma Gandhi to make a wrenching choice: to halt a movement he had nurtured for years, sacrificing political momentum to uphold the sanctity of nonviolence. In doing so, he showed that for him, the integrity of the path was far weightier than the allure of any end, however just.
 
 ## Pursuit of Opportunity
+
+### Quote 10
+> SMUTS: I have thought of calling for a Royal Commission to "investigate" the new legislation. I think I could guarantee they would recommend the Act be repealed.
+> 
+> GANDHI: I congratulate them.
+>
+> SMUTS:  But they might also recommend that future Indian immigration be severely restricted, even stopped. 
+>
+> GANDHI: Immigration was not an issue on which we fought. It would be wrong of us to make it one now that we, we are in a position of advantage.
 
 ### Quote 11
 > GANDHI: But I want to change their minds, not kill them for weaknesses we all possess.
@@ -71,15 +82,6 @@ Personally, I find [Quote 2](#quote-2) especially instructive. It is common to f
 > GANDHI: I mean a day of prayer and fasting. But of course no work could be done, no buses, no trains, no factories, no administration. The country would stop.
 
 ### Quote 12
-> SMUTS: I have thought of calling for a Royal Commission to "investigate" the new legislation. I think I could guarantee they would recommend the Act be repealed.
-> 
-> GANDHI: I congratulate them.
->
-> SMUTS:  But they might also recommend that future Indian immigration be severely restricted, even stopped. 
->
-> GANDHI: Immigration was not an issue on which we fought. It would be wrong of us to make it one now that we, we are in a position of advantage.
-
-### Quote 13
 > GANDHI: They are preparing for war. I will not support it, but I do not intend to take advantage of their danger.
 >
 > PATEL: That's when you take advantage.
@@ -91,7 +93,7 @@ Personally, I find [Quote 2](#quote-2) especially instructive. It is common to f
 
 ## Vision of Happiness
 
-### Quote 14
+### Quote 13
 > GANDHI: But I know happiness does not come with things, even twentieth century things. It can come from work, and pride in what you do. It will not necessarily be "progress" for India if she simply imports the unhappiness of the West.
 
 ### Remark on the Quote
@@ -99,12 +101,12 @@ The quote “Happiness is when what you think, what you say, and what you do are
 
 ## On International Affairs
 
-### Quote 15
+### Quote 14
 > BOURKE-WHITE: You really are going to Pakistan, then? You are a stubborn man.
 >
 > GANDHI: I'm simply going to prove to Muslims there, and Hindus here, that the only devils in the world are those running around in our own hearts, and that's where all our battles ought to be fought.
 
-### Quote 16
+### Quote 15
 > BOURKE-WHITE: But do you really believe you could use non-violence against someone like Hitler?
 >
 > GANDHI: Not without defeats, and great pain. He looks at her. But are there no defeats in this war, no pain? For a moment the thought hangs, and then Gandhi takes their hands back to the spinning. What you cannot do is accept injustice. From Hitler, or anyone. You must make the injustice visible, be prepared to die like a soldier to do so...
