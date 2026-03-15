@@ -1,6 +1,6 @@
 # Quotes from the movie *Gandhi*
 
-Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org/wiki/Gandhi_(film)). For additional context, the reader may also refer to the [screenplay](https://www.sellingyourscreenplay.com/wp-content/uploads/screenplay/scripts/Gandhi.pdf), which is available online. After presenting each group of quotes under a heading, I offer a brief remark on that collection.
+Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org/wiki/Gandhi_(film)). For additional context, the reader may also refer to the [screenplay](https://www.sellingyourscreenplay.com/wp-content/uploads/screenplay/scripts/Gandhi.pdf), which is available online. After presenting each group of quotes under a heading, I offer my reflections on that collection.
 
 ## On Fighting
 
@@ -25,9 +25,9 @@ Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org
 > GANDHI: Because forgiveness is the gift of the brave.
 
 ### Remark on the Quotes
-Ramanujan is attributed to having said, "An equation has no meaning for me unless it expresses a thought of God". In a similar spirit, to digest these five quotes, it is helpful to adopt the following guideline: every action should be undertaken to move closer to divine unity, or in other words, to promote the intrinsic harmony of existence (*Dharma*). This principle appears across major religious traditions — for example, in Hinduism ([*Bhagavad Gita*, Chapter 3, Verse 9](https://www.holy-bhagavad-gita.org/chapter/3/verse/9/)), in Christianity ([Matthew 25:40](https://www.biblegateway.com/passage/?search=Matthew%2025%3A40&version=KJ21)), in Islam ([Sahih Bukhari, Book 1, Hadith 1](https://sunnah.com/bukhari:1)), in Buddhism ([*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta*](https://suttacentral.net/mn117/en/bodhi?lang=en&reference=none&highlight=false)), and in Judaism ([*Pirkei Avot* 2:4](https://www.sefaria.org/Pirkei_Avot.2.4)).
+Srinivasa Ramanujan is attributed to having said, "An equation has no meaning for me unless it expresses a thought of God". In a similar spirit, one can take as an axiom that every action should be undertaken to move closer to divine unity, or, in other words, to promote the intrinsic harmony of existence (*Dharma*). Viewing the quotes through this lens enables a more complete understanding of their message. This axiom is reflected across major religious traditions — in Hinduism ([*Bhagavad Gita*, Chapter 3, Verse 9](https://www.holy-bhagavad-gita.org/chapter/3/verse/9)), Christianity ([Matthew 25:40](https://www.biblegateway.com/passage/?search=Matthew%2025%3A40&version=KJ21)), Islam ([Sahih Bukhari, Book 1, Hadith 1](https://sunnah.com/bukhari:1)), Buddhism ([*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta*](https://suttacentral.net/mn117/en/bodhi?lang=en&reference=none&highlight=false)), and Judaism ([*Pirkei Avot* 2:4](https://www.sefaria.org/Pirkei_Avot.2.4)).
 
-Personally, I find [Quote 2](#quote-2) especially instructive. It is common to feel vengeance and rage when wronged, and equally common to lash out, seeking to inflict the same pain on those who have hurt us. Yet such actions only deepen the division between oppressor and oppressed. Even in these moments, we live under the tyranny of the ego, which convinces us that "justice" has been served. This, however, only moves us further away from peace.
+Quote 2 is particularly instructive. It is common to feel vengeance and rage when being wronged, and equally common to lash out, seeking to make others feel the same pain they have inflicted. However, even in these moments, we live under the tyranny of the ego, which convinces us that "justice" has been served. This only draws us further from unity and peace.
 
 ## Practical Ways to Fight
 
@@ -43,7 +43,7 @@ Personally, I find [Quote 2](#quote-2) especially instructive. It is common to f
 > GANDHI: The function of a civil resister is to provoke response. And we will continue to provoke until they respond, or they change the law. They are not in control, we are. That is the strength of civil resistance.
 
 ### Remark on the Quotes
-It is remarkable how Gandhi could take fundamental abstract principles and derive concrete, actionable plans from them. A key example is his development of the concept of [Satyagraha](https://en.wikipedia.org/wiki/Satyagraha) as a form of civil resistance. In *Young India* (*Navajivan*), 23 February 1930 ([source](https://library.bjp.org/jspui/handle/123456789/618)), he wrote that the first rule of Satyagraha is to harbor no anger — and people actually followed it! In my opinion, the ability to instill such moral discipline and foster inner transformation in others is far greater than achieving results through Satyagraha itself.
+It is remarkable how Gandhi could take fundamental abstract principles and derive concrete, actionable plans from them. A key example is his development of the concept of [Satyagraha](https://en.wikipedia.org/wiki/Satyagraha) as a form of civil resistance. In *Young India* (*Navajivan*), 23 February 1930 ([source](https://library.bjp.org/jspui/handle/123456789/618)), he wrote that the first rule of Satyagraha is to harbor no anger — and people actually followed it. In my opinion, the ability to instill such moral discipline and foster inner transformation in others is far greater than achieving results through Satyagraha itself.
 
 ## Becoming as the Goal
 
@@ -61,9 +61,9 @@ It is remarkable how Gandhi could take fundamental abstract principles and deriv
 ### Remark on the Quote
 As noted in earlier remarks, for Gandhi the integrity of the path mattered far more than the allure of any end, however just.
 
-Modern philosophers have repeatedly raised similar concerns about the aftermath of revolutions. For example, Slavoj Žižek discusses this issue in [this talk](https://www.youtube.com/watch?v=U7JgfB8PaAk). The French Revolution provides a vivid illustration: the uprising of the commoners against the monarchy and aristocracy unleashed a wave of popular violence. Initially fueled by demands for liberty and equality, the movement soon became bloodthirsty, culminating in the widespread use of the guillotine. This violent phase, known as the [Reign of Terror](https://en.wikipedia.org/wiki/Reign_of_Terror) (1793–1794), eventually ended through exhaustion, political infighting, and the collapse of revolutionary leadership.
+Modern philosophers have repeatedly raised similar concerns about the aftermath of revolutions. For example, Slavoj Žižek discusses this issue in [this talk](https://www.youtube.com/watch?v=U7JgfB8PaAk). The French Revolution illustrates this vividly: the uprising of the commoners against the monarchy and aristocracy unleashed a wave of popular violence. Initially fueled by demands for liberty and equality, the masses soon became bloodthirsty, culminating in the widespread use of the guillotine. This violent phase, known as the [Reign of Terror](https://en.wikipedia.org/wiki/Reign_of_Terror) (1793–1794), eventually ended in a combination of exhaustion, political infighting, and the collapse of the revolutionary leadership.
 
-Gandhi seems to have been acutely aware of this risk. His actions, such as personally fasting to restrain popular unrest, reflect his foresight and his focus on preparing people for moral and spiritual self-governance, rather than merely achieving independence. It seems to me that the quality of the individual and collective character was his true goal, and that political freedom was meaningful only if grounded in ethical and spiritual development.
+Gandhi seems to have been acutely aware of this concern, and his actions, such as personally fasting to restrain popular unrest, reflect his foresight and his focus on preparing the people for moral and spiritual self-governance, rather than focusing solely on attaining independence. It seems to me that political freedom was meaningful to Gandhi only if it was grounded in ethical and spiritual development of the masses.
 
 ## Pursuit of Opportunity
 
@@ -95,7 +95,7 @@ Gandhi seems to have been acutely aware of this risk. His actions, such as perso
 > GANDHI: No. That is just another way of striking back. We have come a long way together with the British. When they leave we want to see them off as friends.
 
 ### Remark on the Quotes
-Gandhi avoided exploiting opportunities to punish or take advantage of the British. If he had done so, they might have felt victimized or humiliated. Such a perception would have blocked their self-reflection and hindered their ability to grow.
+Gandhi avoided exploiting opportunities to punish or take advantage of the British. If he had done so, they might have felt victimized or humiliated. That perception would have blocked their self-reflection and hindered their ability to grow.
 
 At the same time, these quotes demonstrate how shrewd Gandhi could be when he chose to be, as seen in his oratory and in symbolic acts like the [Dandi March/Salt Satyagraha](https://en.wikipedia.org/wiki/Dandi_March). He carefully distinguished between being opportunistic (as in [Quote 10](#quote-10)) and being exploitative (as in [Quote 9](#quote-9) and [Quote 11](#quote-11)), ensuring that his actions preserved the possibility of moral and spiritual development, even in his adversaries.
 
@@ -121,4 +121,3 @@ The quote “Happiness is when what you think, what you say, and what you do are
 
 ### Remark on the Quotes
 I have often heard comments that Gandhi would not have been successful in modern times, usually in the context of "winning" conflicts between nations. However, as pointed out earlier in [*Becoming as the Goal*](#becoming-as-the-goal), Gandhi’s primary goal, as I understand it, was to make humans spiritually better by encouraging actions that preserve the harmony of the universe. The resolution of the conflict would then, if meant to, follow as a natural consequence. This principle is echoed multiple times in the *Mahabharata*, for example in the quote [Yato Dharmo Tato Jayaḥ](https://en.wikipedia.org/wiki/Yato_Dharmastato_Jayah) — “Where there is Dharma, there is victory”.
-
