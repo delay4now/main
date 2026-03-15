@@ -23,7 +23,10 @@ Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org
 ### Quote 5
 > GANDHI: Because forgiveness is the gift of the brave.
 
-**Remark on the quotes.** xxx
+### Remark on the Quotes
+Ramanujan is attributed to having said, "An equation has no meaning for me unless it expresses a thought of God". In a similar spirit, to digest these five quotes, it is helpful to adopt the following guideline: every action should be undertaken to move closer to divine unity, or in other words, to promote the intrinsic harmony of existence (*Dharma*). This principle appears across major religious traditions — for example, in Hinduism ([*Bhagavad Gita*, Chapter 3, Verse 9](https://www.holy-bhagavad-gita.org/chapter/3/verse/9/)), in Christianity ([Matthew 25:40](https://www.biblegateway.com/passage/?search=Matthew%2025%3A40&version=KJ21)), in Islam ([Sahih Bukhari, Book 1, Hadith 1](https://sunnah.com/bukhari:1)), in Buddhism ([*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta*](https://suttacentral.net/mn117/en/bodhi?lang=en&reference=none&highlight=false)), and in Judaism ([*Pirkei Avot* 2:4](https://www.sefaria.org/Pirkei_Avot.2.4)).
+
+Personally, I find [Quote 2](#quote-2) especially instructive. It is common to feel vengeance and rage when wronged, and equally common to lash out, seeking to inflict the same pain on those who have hurt us. Yet such actions only deepen the division between oppressor and oppressed. Even in these moments, we live under the tyranny of the ego, which convinces us that "justice" has been served. This, however, only moves us further away from peace.
 
 ## Practical Ways to Fight
 
@@ -109,3 +112,5 @@ The quote “Happiness is when what you think, what you say, and what you do are
 > GANDHI: Every enemy is a human being, even the worst of them. And he believes he is right and you are a beast. And now a little smile. And if you beat him over the head you will only convince him. But you suffer, to show him that he is wrong. Your sacrifice creates an atmosphere of understanding, if not with him, then in the hearts of the rest of the community on whom he depends.
 
 ### Remark on the Quotes
+I have often heard comments that Gandhi would not have been successful in modern times, usually in the context of "winning" conflicts between nations. However, as pointed out earlier in [*Becoming as the Goal*](#becoming-as-the-goal), Gandhi’s primary goal, as I understand it, was to make humans spiritually better by encouraging actions that preserve the harmony of the universe. The resolution of the conflict would then, if meant to, follow as a natural consequence. This principle is echoed multiple times in the *Mahabharata*, for example in the quote [Yato Dharmo Tato Jayaḥ](https://en.wikipedia.org/wiki/Yato_Dharmastato_Jayah) — “Where there is Dharma, there is victory”.
+
