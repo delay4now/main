@@ -1,14 +1,16 @@
 # Quotes from the movie *Gandhi*
 
+Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org/wiki/Gandhi_(film)). For additional context, the reader may also refer to the [screenplay](https://www.sellingyourscreenplay.com/wp-content/uploads/screenplay/scripts/Gandhi.pdf), which is available online. After presenting each group of quotes under a heading, I offer a brief remark on that collection.
+
 ## On Fighting
 
 ### Quote 1
-> GANDHI: I am asking you to fight! To fight against their anger, not to provoke it! He has their attention now. We will not strike a blow, but we will receive them. And through our pain we will make them see their injustice, and it will hurt, as all fighting hurts! But we cannot lose. We cannot. Because they may torture my body, may break my bones, even kill me... They will then have my dead body, not my obedience.
+> GANDHI: I am asking you to fight! To fight against their anger, not to provoke it! We will not strike a blow, but we will receive them. And through our pain we will make them see their injustice, and it will hurt, as all fighting hurts! But we cannot lose. We cannot. Because they may torture my body, may break my bones, even kill me... They will then have my dead body, not my obedience.
 
 ### Quote 2
 > GANDHI: We only make wild speeches, or perform even wilder acts of terrorism. We've bred an army of anarchists but not one single group that can really fight the British anywhere.
 >
-> NEHRU: I thought you were against fighting. They have reached the trough.
+> NEHRU: I thought you were against fighting.
 >
 > GANDHI: Where there is injustice, I've always believed in fighting. The question is do you fight to change things, or do you fight to punish. For myself, I have found that we are all such sinners we should leave punishment to God. And if we really want to change things there are better ways of doing it than by derailing trains or slashing someone with a sword. You see, even here we live under tyranny.
 
@@ -21,7 +23,7 @@
 ### Quote 5
 > GANDHI: Because forgiveness is the gift of the brave.
 
-**Remarks on the quotes.** xxx
+**Remark on the quotes.** xxx
 
 ## Practical Ways to Fight
 
@@ -38,7 +40,8 @@
 ### Quote 8
 > GANDHI: The function of a civil resister is to provoke response. And we will continue to provoke until they respond, or they change the law. They are not in control, we are. That is the strength of civil resistance.
 
-**Remarks on the quotes.** xxx
+### Remark on the Quotes
+
 
 ## Becoming as the Goal
 
@@ -48,7 +51,8 @@
 ### Quote 10
 > GANDHI: I will ask. And I will fast as penance for my part in arousing such emotions, and I will not stop until they stop.
 
-**Remarks on the quotes.** xxx
+### Remark on the Quotes
+
 
 ## Pursuit of Opportunity
 
@@ -64,6 +68,12 @@
 > GANDHI: I mean a day of prayer and fasting. But of course no work could be done, no buses, no trains, no factories, no administration. The country would stop.
 
 ### Quote 12
+> SMUTS: I have thought of calling for a Royal Commission to "investigate" the new legislation. I think I could guarantee they would recommend the Act be repealed.
+> 
+> GANDHI: I congratulate them.
+>
+> SMUTS:  But they might also recommend that future Indian immigration be severely restricted, even stopped. 
+>
 > GANDHI: Immigration was not an issue on which we fought. It would be wrong of us to make it one now that we, we are in a position of advantage.
 
 ### Quote 13
@@ -73,14 +83,16 @@
 >
 > GANDHI: No. That is just another way of striking back. We have come a long way together with the British. When they leave we want to see them off as friends.
 
-**Remarks on the quotes.** xxx
+### Remark on the Quotes
+
 
 ## Vision of Happiness
 
 ### Quote 14
 > GANDHI: But I know happiness does not come with things, even twentieth century things. It can come from work, and pride in what you do. It will not necessarily be "progress" for India if she simply imports the unhappiness of the West.
 
-**Remark on the quote.** xxx
+### Remark on the Quote
+The quote “Happiness is when what you think, what you say, and what you do are in harmony” is commonly attributed to Mahatma Gandhi. Regardless of whether he actually said it, the sentiment helps place the above quote in context: the root of happiness does not lie in materialism. It is also worth directing the reader to poems in the Tao Te Ching by Laozi that express similar ideas.
 
 ## On International Affairs
 
@@ -96,4 +108,4 @@
 >
 > GANDHI: Every enemy is a human being, even the worst of them. And he believes he is right and you are a beast. And now a little smile. And if you beat him over the head you will only convince him. But you suffer, to show him that he is wrong. Your sacrifice creates an atmosphere of understanding, if not with him, then in the hearts of the rest of the community on whom he depends.
 
-**Remarks on the quotes.** xxx
+### Remark on the Quotes
