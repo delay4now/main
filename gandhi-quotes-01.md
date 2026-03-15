@@ -92,7 +92,7 @@ Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org
 > GANDHI: But I know happiness does not come with things, even twentieth century things. It can come from work, and pride in what you do. It will not necessarily be "progress" for India if she simply imports the unhappiness of the West.
 
 ### Remark on the Quote
-The quote “Happiness is when what you think, what you say, and what you do are in harmony” is commonly attributed to Mahatma Gandhi. Regardless of whether he actually said it, the sentiment helps place the above quote in context: the root of happiness does not lie in materialism. It is also worth directing the reader to poems in the Tao Te Ching by Laozi that express similar ideas.
+The quote “Happiness is when what you think, what you say, and what you do are in harmony” is commonly attributed to Mahatma Gandhi. Regardless of whether he actually said it, the sentiment helps place the above quote in context: the root of happiness does not lie in materialism. It is also worth directing the reader to poems in the [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching) by [Laozi](https://en.wikipedia.org/wiki/Laozi) that express similar ideas.
 
 ## On International Affairs
 
