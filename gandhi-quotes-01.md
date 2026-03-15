@@ -9,7 +9,7 @@ Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org
 > 
 > VOICE FROM THE GALLERY: Have you been to prison? They'll beat us and torture us! I say --
 > 
-> GANDHI: I am asking you to fight! To fight against their anger, not to provoke it! We will not strike a blow, but we will receive them. And through our pain we will make them see their injustice, and it will hurt, as all fighting hurts! But we cannot lose. We cannot. Because they may torture my body, may break my bones, even kill me... They will then have my dead body, not my obedience.
+> GANDHI: I am asking you to fight! To fight against their anger, not to provoke it! We will not strike a blow, but we will receive them. And through our pain we will make them see their injustice, and it will hurt, as all fighting hurts! But we cannot lose. We cannot. Because they may torture my body, may break my bones, even kill me. They will then have my dead body, not my obedience.
 
 ### Quote 2
 > GANDHI: We only make wild speeches, or perform even wilder acts of terrorism. We've bred an army of anarchists but not one single group that can really fight the British anywhere.
@@ -32,14 +32,12 @@ Personally, I find [Quote 2](#quote-2) especially instructive. It is common to f
 ## Practical Ways to Fight
 
 ### Quote 5
-> ADVOCATE GENERAL: "...Non-co-operation has one aim: the overthrow of the Government. Sedition must become our creed. We must give no quarter, nor can we expect any." Signed M. K. Gandhi, in your journal *Young India*, dated twenty-second March of this year. Do you deny writing it?
+> ADVOCATE GENERAL: "Non-co-operation has one aim: the overthrow of the Government. Sedition must become our creed. We must give no quarter, nor can we expect any." Signed M. K. Gandhi, in your journal *Young India*, dated twenty-second March of this year. Do you deny writing it?
 >
 > GANDHI: Not at all. And I will save the Court's time, M'Lord, by stating under oath that to this day I believe non-co-operation with evil is a duty, and that British rule of India is evil.
 
 ### Quote 6
-> GANDHI: Yes... in the end you will walk out. Because one hundred thousand Englishmen simply cannot control three hundred fifty million Indians if the Indians refuse to co-operate. And that is what we intend to achieve, peaceful, non-violent, non-co-operation.
->
-> GANDHI: Until you yourself see the wisdom of leaving, your Excellency.
+> GANDHI: Yes, in the end you will walk out. Because one hundred thousand Englishmen simply cannot control three hundred fifty million Indians if the Indians refuse to co-operate. And that is what we intend to achieve, peaceful, non-violent, non-co-operation. Until you yourself see the wisdom of leaving, your Excellency.
 
 ### Quote 7
 > GANDHI: The function of a civil resister is to provoke response. And we will continue to provoke until they respond, or they change the law. They are not in control, we are. That is the strength of civil resistance.
@@ -50,9 +48,15 @@ It is remarkable how Gandhi could take fundamental abstract principles and deriv
 ## Becoming as the Goal
 
 ### Quote 8
-> GANDHI: An eye for an eye only ends up making the whole world blind... If we obtain our freedom by murder and bloodshed I want no part of it.
+> GANDHI: An eye for an eye only ends up making the whole world blind ... If we obtain our freedom by murder and bloodshed I want no part of it.
+>
+> NEHRU: Bapu, the whole nation is marching. They wouldn't stop, even if we asked them to.
 > 
 > GANDHI: I will ask. And I will fast as penance for my part in arousing such emotions, and I will not stop until they stop.
+> 
+> NEHRU: But, Gandhiji people are aroused. They won't stop.
+>
+> GANDHI: If I die, perhaps they will.
 
 ### Remark on the Quote
 As alluded to in the previous remark, 
@@ -109,9 +113,7 @@ The quote “Happiness is when what you think, what you say, and what you do are
 ### Quote 15
 > BOURKE-WHITE: But do you really believe you could use non-violence against someone like Hitler?
 >
-> GANDHI: Not without defeats, and great pain. He looks at her. But are there no defeats in this war, no pain? For a moment the thought hangs, and then Gandhi takes their hands back to the spinning. What you cannot do is accept injustice. From Hitler, or anyone. You must make the injustice visible, be prepared to die like a soldier to do so...
->
-> GANDHI: Every enemy is a human being, even the worst of them. And he believes he is right and you are a beast. And now a little smile. And if you beat him over the head you will only convince him. But you suffer, to show him that he is wrong. Your sacrifice creates an atmosphere of understanding, if not with him, then in the hearts of the rest of the community on whom he depends.
+> GANDHI: Not without defeats, and great pain. He looks at her. But are there no defeats in this war, no pain? For a moment the thought hangs, and then Gandhi takes their hands back to the spinning. What you cannot do is accept injustice. From Hitler, or anyone. You must make the injustice visible, be prepared to die like a soldier to do so. Every enemy is a human being, even the worst of them. And he believes he is right and you are a beast. And now a little smile. And if you beat him over the head you will only convince him. But you suffer, to show him that he is wrong. Your sacrifice creates an atmosphere of understanding, if not with him, then in the hearts of the rest of the community on whom he depends.
 
 ### Remark on the Quotes
 I have often heard comments that Gandhi would not have been successful in modern times, usually in the context of "winning" conflicts between nations. However, as pointed out earlier in [*Becoming as the Goal*](#becoming-as-the-goal), Gandhi’s primary goal, as I understand it, was to make humans spiritually better by encouraging actions that preserve the harmony of the universe. The resolution of the conflict would then, if meant to, follow as a natural consequence. This principle is echoed multiple times in the *Mahabharata*, for example in the quote [Yato Dharmo Tato Jayaḥ](https://en.wikipedia.org/wiki/Yato_Dharmastato_Jayah) — “Where there is Dharma, there is victory”.
