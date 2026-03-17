@@ -1,3 +1,5 @@
+
+
 # Quotes from the movie *Gandhi*
 
 Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org/wiki/Gandhi_(film)). For additional context, the reader may also refer to the [screenplay](https://www.sellingyourscreenplay.com/wp-content/uploads/screenplay/scripts/Gandhi.pdf), which is available online. After presenting each group of quotes under a heading, I offer my reflections on that collection.
@@ -25,7 +27,7 @@ Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org
 > GANDHI: Because forgiveness is the gift of the brave.
 
 ### Remark on the Quotes
-Srinivasa Ramanujan is attributed to having said, "An equation has no meaning for me unless it expresses a thought of God". In a similar spirit, one can take as an axiom that every action should be undertaken to move closer to divine unity, or, in other words, to promote the intrinsic harmony of existence (*Dharma*). Viewing the quotes through this lens enables a more complete understanding of their message. This axiom is reflected across major religious traditions — in Hinduism ([*Bhagavad Gita*, Chapter 3, Verse 9](https://www.holy-bhagavad-gita.org/chapter/3/verse/9)), Christianity ([Matthew 25:40](https://www.biblegateway.com/passage/?search=Matthew%2025%3A40&version=KJ21)), Islam ([Sahih Bukhari, Book 1, Hadith 1](https://sunnah.com/bukhari:1)), Buddhism ([*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta*](https://suttacentral.net/mn117/en/bodhi?lang=en&reference=none&highlight=false)), and Judaism ([*Pirkei Avot* 2:4](https://www.sefaria.org/Pirkei_Avot.2.4)).
+Srinivasa Ramanujan is attributed to having said, "An equation has no meaning for me unless it expresses a thought of God". In a similar spirit, one can take as an axiom that every action should be undertaken to move closer to divine unity, or, in other words, to promote the intrinsic harmony of existence (*Dharma*). Viewing the quotes through this lens enables a more complete understanding of their message. This axiom is reflected across major religious traditions — in Hinduism ([*Bhagavad Gita*, Chapter 3, Verse 9](https://www.holy-bhagavad-gita.org/chapter/3/verse/9)), Christianity ([Matthew 25:40](https://www.biblegateway.com/passage/?search=Matthew%2025%3A40&version=KJ21)), Islam ([Sahih Bukhari, Book 1, Hadith 1](https://sunnah.com/bukhari:1)), Buddhism ([*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta*](https://suttacentral.net/mn117/en/bodhi?lang=en&reference=none&highlight=false)), and Judaism ([*Mishlei* 19:21](https://www.chabad.org/library/bible_cdo/aid/16390/jewish/Chapter-19.htm)).
 
 [Quote 2](#quote-2) is particularly instructive. It is common to feel vengeance and rage when being wronged, and equally common to lash out, seeking to make others feel the same pain they have inflicted. However, even in these moments, we live under the tyranny of the ego, which convinces us that "justice" has been served. This only draws us further from unity and peace.
 
@@ -74,7 +76,7 @@ Gandhi seems to have been acutely aware of this concern, and his actions, such a
 >
 > SMUTS:  But they might also recommend that future Indian immigration be severely restricted, even stopped. 
 >
-> GANDHI: Immigration was not an issue on which we fought. It would be wrong of us to make it one now that we, we are in a position of advantage.
+> GANDHI: Immigration was not an issue on which we fought. It would be wrong of us to make it one now that we are in a position of advantage.
 
 ### Quote 10
 > GANDHI: But I want to change their minds, not kill them for weaknesses we all possess.
@@ -105,7 +107,7 @@ At the same time, these quotes demonstrate how shrewd Gandhi could be when he ch
 > GANDHI: But I know happiness does not come with things, even twentieth century things. It can come from work, and pride in what you do. It will not necessarily be "progress" for India if she simply imports the unhappiness of the West.
 
 ### Remark on the Quote
-The quote “Happiness is when what you think, what you say, and what you do are in harmony” is commonly attributed to Mahatma Gandhi. Regardless of whether he actually said it, the sentiment helps place the above quote in context: the root of happiness does not lie in materialism. It is also worth directing the reader to poems in the [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching) by [Laozi](https://en.wikipedia.org/wiki/Laozi) that express similar ideas.
+The quote “Happiness is when what you think, what you say, and what you do are in harmony” is commonly attributed to Mahatma Gandhi. Regardless of whether he actually said it, the sentiment helps place the above quote in context: materialism does not lead to happiness. It is also worth directing the reader to poems in the [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching) by [Laozi](https://en.wikipedia.org/wiki/Laozi) that express similar ideas (for example see Chapter 46 and Chatpter 80 [here](https://www.with.org/tao_te_ching_en.pdf)).
 
 ## On International Affairs
 
@@ -117,7 +119,7 @@ The quote “Happiness is when what you think, what you say, and what you do are
 ### Quote 14
 > BOURKE-WHITE: But do you really believe you could use non-violence against someone like Hitler?
 >
-> GANDHI: Not without defeats, and great pain. He looks at her. But are there no defeats in this war, no pain? For a moment the thought hangs, and then Gandhi takes their hands back to the spinning. What you cannot do is accept injustice. From Hitler, or anyone. You must make the injustice visible, be prepared to die like a soldier to do so. Every enemy is a human being, even the worst of them. And he believes he is right and you are a beast. And now a little smile. And if you beat him over the head you will only convince him. But you suffer, to show him that he is wrong. Your sacrifice creates an atmosphere of understanding, if not with him, then in the hearts of the rest of the community on whom he depends.
+> GANDHI: Not without defeats, and great pain. But are there no defeats in this war, no pain? What you cannot do is accept injustice. From Hitler, or anyone. You must make the injustice visible, be prepared to die like a soldier to do so... Every enemy is a human being, even the worst of them. And he believes he is right and you are a beast. And if you beat him over the head you will only convince him. But if you suffer, to show him that he is wrong. Your sacrifice creates an atmosphere of understanding, if not with him, then in the hearts of the rest of the community on whom he depends.
 
 ### Remark on the Quotes
-I have often heard comments that Gandhi would not have been successful in modern times, usually in the context of "winning" conflicts between nations. However, as pointed out earlier in [*Becoming as the Goal*](#becoming-as-the-goal), Gandhi’s primary goal, as I understand it, was to make humans spiritually better by encouraging actions that preserve the harmony of the universe. The resolution of the conflict would then, if meant to, follow as a natural consequence. This principle is echoed multiple times in the *Mahabharata*, for example in the quote [Yato Dharmo Tato Jayaḥ](https://en.wikipedia.org/wiki/Yato_Dharmastato_Jayah) — “Where there is Dharma, there is victory”.
+I have often heard comments that Gandhi would not have been successful in modern times, usually in the context of "winning" conflicts between nations. However, as pointed out earlier in [*Becoming as the Goal*](#becoming-as-the-goal), Gandhi’s primary goal, as I understand it, was to make humans spiritually better by encouraging actions that preserve the harmony of the universe. The resolution of the conflict would then, if meant to, follow as a natural consequence. This principle is echoed multiple times in the *Mahabharata*, for example in the quote [Yato Dharmastato Jayaḥ](https://en.wikipedia.org/wiki/Yato_Dharmastato_Jayah) — “Where there is Dharma, there is victory”.
