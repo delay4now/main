@@ -5,13 +5,13 @@ In his tribute to Gandhi, Einstein wrote (as also noted in the movie):
 
 There are many ways to approach this tribute. In the reflection below, I focus on presenting Gandhi not as someone who achieved results through non-violent methods, but as a person who deeply internalized the essence of religion and, from that foundation, developed non-violence as a way of action. The outcomes of these actions are not of primary concern here.
 
-In taking this approach, I do leave out certain powerful elements from the film. For instance, the almost sacred portrayal of his marriage, especially the scene of his wife’s death, is not discussed. Similarly, I do not explore the moment when Shukla from Champaran approaches Gandhi, visibly exhausted and starving, yet chooses to voice the suffering of his people before taking even a single bite of food. This scene can be seen as a parallel to a moment in the film *Cycle* ([Cycle (2018 film)](https://en.wikipedia.org/wiki/Cycle_(2018_film))), where a “customer” visits Keshav and is first offered a meal.
+In taking this approach, I do leave out certain powerful elements from the film. For instance, the almost sacred portrayal of his marriage, especially the scene of his wife’s death, is not discussed. Similarly, I do not explore the moment when Shukla from Champaran approaches Gandhi, visibly exhausted and starving, yet chooses to voice the suffering of his people before taking even a single bite of food. This scene can be seen as a parallel to a moment in the film [*Cycle*](https://en.wikipedia.org/wiki/Cycle_(2018_film)), where a “customer” visits Keshav and is first offered a meal.
 
-Nevertheless, this selective focus follows from the perspective adopted here. Gandhi repeatedly emphasized that his methods and decisions were guided by contemplation of religious scriptures. To view him solely through a modern lens of non-violent protest would therefore be to miss the foundation from which those actions arose. In fact, Gandhi wrote his ([own commentary on the *Bhagavad Gita*](https://www.mkgandhi.org/ebks/message-of-the-gita.pdf)), illustrating how deeply it influenced him. Accordingly, this reflection frequently uses the Gita as a lens through which to understand Gandhi.
+Nevertheless, this selective focus follows from the perspective adopted here. Gandhi repeatedly emphasized that his methods and decisions were guided by contemplation of religious scriptures. To view him solely through a modern lens of non-violent protest would be to miss the foundation from which those actions arose. In fact, Gandhi wrote his [own commentary on the *Bhagavad Gita*](https://www.mkgandhi.org/ebks/message-of-the-gita.pdf), illustrating how deeply it influenced him. Accordingly, the remarks below frequently use the Gita as a lens to understand Gandhi.
 
 # Selected Quotes from the movie *Gandhi*
 
-Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org/wiki/Gandhi_(film)). For additional context, the reader may also refer to the [screenplay](https://www.sellingyourscreenplay.com/wp-content/uploads/screenplay/scripts/Gandhi.pdf), which is available online. After presenting each group of quotes under a heading, I offer my reflections on that collection.
+Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org/wiki/Gandhi_(film)). For additional context, the reader may also refer to the [screenplay](https://www.sellingyourscreenplay.com/wp-content/uploads/screenplay/scripts/Gandhi.pdf), which is available online. After presenting each group of quotes under a heading, I offer reflections on that collection.
 
 ## On Fighting
 
@@ -38,23 +38,23 @@ Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org
 ### Remark on the Quotes
 Srinivasa Ramanujan is attributed to having said, "An equation has no meaning for me unless it expresses a thought of God". In a similar spirit, one can take as an axiom that every action should be undertaken to move closer to divine unity, or, in other words, to promote the intrinsic harmony of existence (*Dharma*). Viewing the quotes through this lens enables a more complete understanding of their message. This axiom is reflected across major religious traditions — in Hinduism ([*Bhagavad Gita*, Chapter 3, Verse 9](https://www.holy-bhagavad-gita.org/chapter/3/verse/9)), Christianity ([Matthew 25:40](https://www.biblegateway.com/passage/?search=Matthew%2025%3A40&version=KJ21)), Islam ([Sahih Bukhari, Book 1, Hadith 1](https://sunnah.com/bukhari:1)), Buddhism ([*Majjhima Nikāya* 117, *Mahācattārīsaka Sutta*](https://suttacentral.net/mn117/en/bodhi?lang=en&reference=none&highlight=false)), and Judaism ([*Mishlei* 19:21](https://www.chabad.org/library/bible_cdo/aid/16390/jewish/Chapter-19.htm)).
 
-[Quote 2](#quote-2) is particularly instructive. It is common to feel vengeance and rage when being wronged, and equally common to lash out, seeking to make others feel the same pain they have inflicted. However, even in these moments, we live under the tyranny of the ego, which convinces us that "justice" has been served. This only draws us further from unity and peace.
+[Quote 2](#quote-2) is particularly instructive. It is common for one to feel vengeance and rage when being wronged, and as a natural consequence, to lash out, seeking to make others feel the same pain they have inflicted. However, even in these moments, one lives under the tyranny of the ego, which convinces one that "justice" has been served. This only draws one further from unity and peace.
 
 ## Practical Ways to Fight
 
 ### Quote 5
-> ADVOCATE GENERAL: "Non-co-operation has one aim: the overthrow of the Government. Sedition must become our creed. We must give no quarter, nor can we expect any." Signed M. K. Gandhi, in your journal *Young India*, dated twenty-second March of this year. Do you deny writing it?
+> ADVOCATE GENERAL: "Non-cooperation has one aim: the overthrow of the Government. Sedition must become our creed. We must give no quarter, nor can we expect any." Signed M. K. Gandhi, in your journal *Young India*, dated twenty-second March of this year. Do you deny writing it?
 >
-> GANDHI: Not at all. And I will save the Court's time, M'Lord, by stating under oath that to this day I believe non-co-operation with evil is a duty, and that British rule of India is evil.
+> GANDHI: Not at all. And I will save the Court's time, M'Lord, by stating under oath that to this day I believe non-cooperation with evil is a duty, and that British rule of India is evil.
 
 ### Quote 6
-> GANDHI: Yes, in the end you will walk out. Because one hundred thousand Englishmen simply cannot control three hundred fifty million Indians if the Indians refuse to co-operate. And that is what we intend to achieve, peaceful, non-violent, non-co-operation. Until you yourself see the wisdom of leaving, your Excellency.
+> GANDHI: Yes, in the end you will walk out. Because one hundred thousand Englishmen simply cannot control three hundred fifty million Indians if the Indians refuse to cooperate. And that is what we intend to achieve, peaceful, non-violent, non-cooperation. Until you yourself see the wisdom of leaving, your Excellency.
 
 ### Quote 7
 > GANDHI: The function of a civil resister is to provoke response. And we will continue to provoke until they respond, or they change the law. They are not in control, we are. That is the strength of civil resistance.
 
 ### Remark on the Quotes
-It is remarkable how Gandhi could take fundamental abstract principles and derive concrete, actionable plans from them. A key example is his development of the concept of [Satyagraha](https://en.wikipedia.org/wiki/Satyagraha) as a form of civil resistance. In *Young India* (*Navajivan*), 23 February 1930 ([source](https://library.bjp.org/jspui/handle/123456789/618)), he wrote that the first rule of Satyagraha is to harbor no anger — and people actually followed it. In my opinion, the ability to instill such moral discipline and foster inner transformation in others is far greater than achieving results through Satyagraha itself.
+It is remarkable how Gandhi could take fundamental abstract principles and derive concrete, actionable plans from them. A key example is his development of the concept of [Satyagraha](https://en.wikipedia.org/wiki/Satyagraha) as a form of civil resistance. In *Young India* (*Navajivan*), 23 February 1930 ([source](https://library.bjp.org/jspui/handle/123456789/618)), he wrote that the first rule of Satyagraha is to harbor no anger — and people actually followed it. In my view, the ability to instill such moral discipline and foster inner transformation in others is far greater than achieving results through Satyagraha itself.
 
 ## Becoming as the Goal
 
@@ -119,7 +119,7 @@ At the same time, these quotes demonstrate how shrewd Gandhi could be when he ch
 > GANDHI: But I know happiness does not come with things, even twentieth century things. It can come from work, and pride in what you do. It will not necessarily be "progress" for India if she simply imports the unhappiness of the West.
 
 ### Remark on the Quote
-The quote “Happiness is when what you think, what you say, and what you do are in harmony” is commonly attributed to Mahatma Gandhi. Regardless of whether he actually said it, the sentiment helps place the above quote in context: materialism does not lead to happiness. It is also worth directing the reader to poems in the [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching) by [Laozi](https://en.wikipedia.org/wiki/Laozi) that express similar ideas (for example see Chapter 46 and Chatpter 80 [here](https://www.with.org/tao_te_ching_en.pdf)).
+The quote “Happiness is when what you think, what you say, and what you do are in harmony” is commonly attributed to Mahatma Gandhi. Regardless of whether he actually said it, the sentiment helps place the above quote in context: materialism does not lead to happiness. It is also worth directing the reader to poems in the [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching) by [Laozi](https://en.wikipedia.org/wiki/Laozi) that express similar ideas (for example, see Chapter 46 and Chatpter 80 [here](https://www.with.org/tao_te_ching_en.pdf)).
 
 ## On International Affairs
 
@@ -132,10 +132,6 @@ The quote “Happiness is when what you think, what you say, and what you do are
 > BOURKE-WHITE: But do you really believe you could use non-violence against someone like Hitler?
 >
 > GANDHI: Not without defeats, and great pain. But are there no defeats in this war, no pain? What you cannot do is accept injustice. From Hitler, or anyone. You must make the injustice visible, be prepared to die like a soldier to do so... Every enemy is a human being, even the worst of them. And he believes he is right and you are a beast. And if you beat him over the head you will only convince him. But if you suffer, to show him that he is wrong. Your sacrifice creates an atmosphere of understanding, if not with him, then in the hearts of the rest of the community on whom he depends.
-
-### Remark on the Quotes
-I have often heard comments that Gandhi would not have been successful in modern times, usually in the context of "winning" conflicts between nations. However, as pointed out earlier in [*Becoming as the Goal*](#becoming-as-the-goal), Gandhi’s primary goal, as I understand it, was to make humans spiritually better by encouraging actions that preserve the harmony of the universe. The resolution of the conflict would then, if meant to, follow as a natural consequence. This principle is echoed multiple times in the *Mahabharata*, for example in the quote [Yato Dharmastato Jayaḥ](https://en.wikipedia.org/wiki/Yato_Dharmastato_Jayah) — “Where there is Dharma, there is victory”.
-
 
 ### Remark on the Quotes
 I have often heard comments that Gandhi would not have been successful in modern times, usually in the context of "winning" conflicts between nations. However, as pointed out earlier in [*Becoming as the Goal*](#becoming-as-the-goal), Gandhi’s primary goal, as I understand it, was to make humans spiritually better by encouraging actions that preserve the harmony of the universe. The resolution of the conflict would then, if meant to, follow as a natural consequence. This principle is echoed multiple times in the *Mahabharata*, for example in the quote [Yato Dharmastato Jayaḥ](https://en.wikipedia.org/wiki/Yato_Dharmastato_Jayah), “Where there is Dharma, there is victory”.
