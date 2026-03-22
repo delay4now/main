@@ -43,6 +43,8 @@ Rather, we suggest watching them as starting points for thought and discussion, 
 
 - **[Gandhi](https://en.wikipedia.org/wiki/Gandhi_(film))** featuring Ben Kingsley  
   Was it so difficult to understand what he was saying?
+   - <span style="background-color: yellow; line-height: inherit; margin: 0; padding: 0; display: inline;">Some reflections on the movie can be found [here](gandhi-quotes-01.md).</span>
+  
 
 - **[Dharm](https://en.wikipedia.org/wiki/Dharm_(film))** in Hindi  
   On traditional society and its breakdown.
