@@ -1,6 +1,15 @@
+# Reflections on the Movie *Gandhi*
 
+In his tribute to Gandhi, Einstein wrote (as also noted in the movie):  
+> “Generations to come, it may be, will scarcely believe that such a one as this ever in flesh and blood walked upon this earth”.
 
-# Quotes from the movie *Gandhi*
+There are many ways to approach this tribute. In the reflection below, I focus on presenting Gandhi not as someone who achieved results through non-violent methods, but as a person who deeply internalized the essence of religion and, from that foundation, developed non-violence as a way of action. The outcomes of these actions are not of primary concern here.
+
+In taking this approach, I do leave out certain powerful elements from the film. For instance, the almost sacred portrayal of his marriage, especially the scene of his wife’s death, is not discussed. Similarly, I do not explore the moment when Shukla from Champaran approaches Gandhi, visibly exhausted and starving, yet chooses to voice the suffering of his people before taking even a single bite of food. This scene can be seen as a parallel to a moment in the film *Cycle* ([Cycle (2018 film)](https://en.wikipedia.org/wiki/Cycle_(2018_film))), where a “customer” visits Keshav and is first offered a meal.
+
+Nevertheless, this selective focus follows from the perspective adopted here. Gandhi repeatedly emphasized that his methods and decisions were guided by contemplation of religious scriptures. To view him solely through a modern lens of non-violent protest would therefore be to miss the foundation from which those actions arose. In fact, Gandhi wrote his ([own commentary on the *Bhagavad Gita*](https://www.mkgandhi.org/ebks/message-of-the-gita.pdf)), illustrating how deeply it influenced him. Accordingly, this reflection frequently uses the Gita as a lens through which to understand Gandhi.
+
+# Selected Quotes from the movie *Gandhi*
 
 Below is a selection of quotes from the film [*Gandhi*](https://en.wikipedia.org/wiki/Gandhi_(film)). For additional context, the reader may also refer to the [screenplay](https://www.sellingyourscreenplay.com/wp-content/uploads/screenplay/scripts/Gandhi.pdf), which is available online. After presenting each group of quotes under a heading, I offer my reflections on that collection.
 
@@ -67,6 +76,9 @@ Modern philosophers have repeatedly raised similar concerns about the aftermath 
 
 Gandhi seems to have been acutely aware of this concern, and his actions, such as personally fasting to restrain popular unrest, reflect his foresight and his focus on preparing the people for moral and spiritual self-governance, rather than focusing solely on attaining independence. It seems to me that political freedom was meaningful to Gandhi only if it was grounded in ethical and spiritual development of the masses.
 
+-  Quote 8:  Context could be given (Chauri Choura?).
+
+
 ## Pursuit of Opportunity
 
 ### Quote 9
@@ -123,3 +135,13 @@ The quote “Happiness is when what you think, what you say, and what you do are
 
 ### Remark on the Quotes
 I have often heard comments that Gandhi would not have been successful in modern times, usually in the context of "winning" conflicts between nations. However, as pointed out earlier in [*Becoming as the Goal*](#becoming-as-the-goal), Gandhi’s primary goal, as I understand it, was to make humans spiritually better by encouraging actions that preserve the harmony of the universe. The resolution of the conflict would then, if meant to, follow as a natural consequence. This principle is echoed multiple times in the *Mahabharata*, for example in the quote [Yato Dharmastato Jayaḥ](https://en.wikipedia.org/wiki/Yato_Dharmastato_Jayah) — “Where there is Dharma, there is victory”.
+
+
+### Remark on the Quotes
+I have often heard comments that Gandhi would not have been successful in modern times, usually in the context of "winning" conflicts between nations. However, as pointed out earlier in [*Becoming as the Goal*](#becoming-as-the-goal), Gandhi’s primary goal, as I understand it, was to make humans spiritually better by encouraging actions that preserve the harmony of the universe. The resolution of the conflict would then, if meant to, follow as a natural consequence. This principle is echoed multiple times in the *Mahabharata*, for example in the quote [Yato Dharmastato Jayaḥ](https://en.wikipedia.org/wiki/Yato_Dharmastato_Jayah), “Where there is Dharma, there is victory”.
+
+Additionally, in Quote [13](#quote-13), Gandhi’s remark that the “only devils in the world are those running around in our own hearts” perhaps most concisely captures his central insight. The primary battle is in the mind. This idea resonates across religious and philosophical traditions, all of which recognize that the struggle of mankind is both internal and external, and that it is the internal struggle that is the greater of the two.
+
+Prophet Mohammad, for instance, is said to have told his followers after returning from military expeditions that the greater struggle begins within the mind ([source](https://www.cpsglobal.org/books/the-concept-of-jihad-in-islam/the-lesser-and-the-greater-jihad)). Similarly, Jain philosophy teaches that it is better to conquer the self than a million external enemies ([Verses 34-35 in Uttaradhyayana‑sūtra]([https://en.wikipedia.org/wiki/Uttaradhyayana](https://sacred-texts.com/jai/sbe45/sbe4511.htm))), echoing Mahavira’s dictum that a Jina, or “conqueror,” is one who has subdued the passions and impulses within. This principle is vividly dramatized in the *Mahabharata*. The war that Arjuna faces in *Kurukshetra* is both outward and inward. He is torn by the question of whether it is moral to fight against cousins, friends, and mentors, and even unknowingly a brother. The *Gita* underscores the superiority of the internal struggle, symbolized by the charioteer guiding the chariot: Knowledge (Krishna) over Action (Arjuna), mind over body, discernment over impulse. Similarly, in the Chinese film *Hero* ([clip](https://www.youtube.com/watch?v=7ZANYMihNZM)), the tension between duty, morality, and personal restraint mirrors the same principle. True conquest is of the self, not merely of one’s enemies.
+
+Gandhi lived this truth. Yet even at the end of his life, those who observed him could see only ambiguity. Bourke-White noted a sadness in him, and Mirabehn, reflecting on his struggle, said simply: "he thinks he has failed". The world, caught up in the violence and upheaval of Partition and in the countless wars and conflicts since, has still not fully recognized the clarity of the path he offered. And so the lesson remains, stark and poignant for us today: *Was it so difficult to see what he was saying?*
