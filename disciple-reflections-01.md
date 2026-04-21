@@ -69,7 +69,7 @@ A story about a carpenter going about his work in a “spiritual manner” attri
  A Marathi prayer before a meal:
 
 > Vadani Kaval Gheta, Naam Ghya ShriHariche  
-> …………………………………………………………………………………………………………
+> …………………………………………………………………………………………………………  
 > …………………………………………… , Anna He PurnaBrahma  
 > Udar Bharan Nohe, Janije Yadnyakarma
 
