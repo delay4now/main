@@ -16,19 +16,19 @@ Here are the five tapes that one can listen to (or read the translation) oneself
 
 ### Tape 2
 > A restless mind cannot produce the highest music.  
-> [Watch Tape 2](https://www.youtube.com/watch?v=TcfZooFZ_A)
+> [Watch Tape 2](https://www.youtube.com/watch?v=TcfrZoofZ_A)
 
 ### Tape 3
 > The highest music is performed not for the sake of pleasing the audience, but as a devotional offering to the Guru (Teacher) and the Divine.  
 > [Watch Tape 3](https://www.youtube.com/watch?v=a7WrQrMLKZg)
 
 ### Tape 4
-> The path is arduous. One must keep faith in Goddess Saraswati (Goddess of knowledge and music; in Marathi schools, the day starts with a prayer to the Goddess: [Watch prayer](https://www.youtube.com/watch?v=2diUWDlhI_U)).  
+> The path is arduous. One must keep faith in Goddess Saraswati (Goddess of knowledge and music; in Marathi schools, the day starts with a prayer to the Goddess: [Watch prayer](https://www.youtube.com/watch?v=2diUWDIhI_U)).  
 > [Watch Tape 4](https://www.youtube.com/watch?v=_SX641sPPLU)
 
 ### Tape 5
 > Mere mastery of the technique is much less important than the expression of the inner self (the “spiritual element”).  
-> [Watch Tape 5](https://www.youtube.com/watch?v=53g3flip9Hg)
+> [Watch Tape 5](https://www.youtube.com/watch?v=53g3fIip9Hg)
 
 ### Remark on the Tapes
 
@@ -69,7 +69,8 @@ A story about a carpenter going about his work in a “spiritual manner” attri
  A Marathi prayer before a meal:
 
 > Vadani Kaval Gheta, Naam Ghya ShriHariche  
-> …, Anna He PurnaBrahma  
+> …………………………………………………………………………………………………………
+> …………………………………………… , Anna He PurnaBrahma  
 > Udar Bharan Nohe, Janije Yadnyakarma
 
 This is translated as "As you take a morsel of food, recite the name of the Lord. …… Food is the very essence of the Divine. Recognize (the act of eating), not as filling up the belly, but as a sacred offering, a sacrificial ritual."
