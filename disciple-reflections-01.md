@@ -12,23 +12,23 @@ Here are the five tapes that one can listen to (or read the translation) oneself
 
 ### Tape 1
 > To learn classical music, even ten lifetimes would not be enough.  
-> https://www.youtube.com/watch?v=zVywxZgi4Wc
+> [Watch Tape 1](https://www.youtube.com/watch?v=zVywxZgi4Wc)
 
 ### Tape 2
 > A restless mind cannot produce the highest music.  
-> https://www.youtube.com/watch?v=TcfZooFZ_A
+> [Watch Tape 2](https://www.youtube.com/watch?v=TcfZooFZ_A)
 
 ### Tape 3
 > The highest music is performed not for the sake of pleasing the audience, but as a devotional offering to the Guru (Teacher) and the Divine.  
-> https://www.youtube.com/watch?v=a7WrQrMLKZg
+> [Watch Tape 3](https://www.youtube.com/watch?v=a7WrQrMLKZg)
 
 ### Tape 4
-> The path is arduous. One must keep faith in Goddess Saraswati (Goddess of knowledge and music; in Marathi schools, the day starts with a prayer to the Goddess: https://www.youtube.com/watch?v=2diUWDlhI_U).  
-> https://www.youtube.com/watch?v=_SX641sPPLU
+> The path is arduous. One must keep faith in Goddess Saraswati (Goddess of knowledge and music; in Marathi schools, the day starts with a prayer to the Goddess: [Watch prayer](https://www.youtube.com/watch?v=2diUWDlhI_U)).  
+> [Watch Tape 4](https://www.youtube.com/watch?v=_SX641sPPLU)
 
 ### Tape 5
 > Mere mastery of the technique is much less important than the expression of the inner self (the “spiritual element”).  
-> https://www.youtube.com/watch?v=53g3flip9Hg
+> [Watch Tape 5](https://www.youtube.com/watch?v=53g3flip9Hg)
 
 ### Remark on the Tapes
 
@@ -51,39 +51,42 @@ I interpret the voice of the otherworldly master Maai as the symbol of seemingly
 A common message across many cultures, as seen by examples below, is: every activity, whether it be music, mathematics, pottery, carpentry, or even eating, swordmaking, and butchery(!), ought to “have a spiritual dimension”, and be “in the service of God”, “in glorification of the Divine”.
 
 ### Mathematics
-> Ramanujan said “A theorem has no meaning to me unless it expresses a thought of God.” He said his theorems were revealed to him by the Goddess in his dreams.
+Ramanujan said “A theorem has no meaning to me unless it expresses a thought of God”. He said his theorems were revealed to him by the Goddess in his dreams.
 
 ### Pottery
-> A Marathi song that describes God as the Great Potter.  
-> https://www.youtube.com/watch?v=EeNd0JJbM-U  
-> There were several Indian saints across all vocations and social strata, forming the Bhakti (Devotion) Movement, and their poems often use metaphors from their vocation.
+A Marathi song that describes God as the Great Potter: [Listen here](https://www.youtube.com/watch?v=EeNd0JJbM-U)
+
+There were several Indian saints across all vocations and social strata, forming the Bhakti (Devotion) Movement, and their poems often use metaphors from their vocation.
 
 ### Carpentry
-> A story about a carpenter going about his work in a “spiritual manner” attributed to [Chuang Tzu](https://en.wikipedia.org/wiki/Zhuang_Zhou) is as follows: Ch’ing, the chief carpenter, was carving wood into a stand for musical instruments. When finished, the work appeared to those who saw it as though of supernatural execution; and the Prince of Lu asked him, saying, ‘What mystery is there in your art?’
+A story about a carpenter going about his work in a “spiritual manner” attributed to [Chuang Tzu](https://en.wikipedia.org/wiki/Zhuang_Zhou) is as follows: 
 
+> Ch’ing, the chief carpenter, was carving wood into a stand for musical instruments. When finished, the work appeared to those who saw it as though of supernatural execution; and the Prince of Lu asked him, saying, ‘What mystery is there in your art?’
+>
 > ‘No mystery, Your Highness,’ replied Ch’ing. ‘And yet there is something. When I am about to make such a stand, I guard against any diminution of my vital power. I first reduce my mind to absolute quiescence. Three days in this condition, and I become oblivious of any reward to be gained. Five days, and I become oblivious of any fame to be acquired. Seven days, and I become unconscious of my four limbs and my physical frame. Then, with no thought of the Court present in my mind, my skill becomes concentrated, and all disturbing elements from without are gone. I enter some mountain forest, I search for a suitable tree. It contains the form required, which is afterwards elaborated. I see the stand in my mind’s eye, and then set to work. Beyond that there is nothing. I bring my own native capacity into relation with that of the wood. What was suspected to be of supernatural execution in my work was due solely to this.’
 
 ### Eating
-> A Marathi prayer before a meal:
->
-> "Vadani Kaval Gheta, Naam Ghya ShriHariche |  
-> …, Anna He PurnaBrahma |  
-> Udar Bharan Nohe, Janije Yadnyakarma ||"
-> 
-> As you take a morsel of food, recite the name of the Lord. …… Food is the very essence of the Divine. Recognize (the act of eating), not as filling up the belly, but as a sacred offering, a sacrificial ritual.
->
-> Hence the extreme discomfort Indians have for wasting food!
+ A Marathi prayer before a meal:
+
+> Vadani Kaval Gheta, Naam Ghya ShriHariche  
+> …, Anna He PurnaBrahma  
+> Udar Bharan Nohe, Janije Yadnyakarma
+
+This is translated as "As you take a morsel of food, recite the name of the Lord. …… Food is the very essence of the Divine. Recognize (the act of eating), not as filling up the belly, but as a sacred offering, a sacrificial ritual."
+
+Hence the extreme discomfort Indians have for wasting food!
 
 ### Swordmaking
-> An unnamed author has written:
->
-> “My first awareness of Japan came at age 16, when my high school English teacher, for some reason I can’t recall, was discussing Japanese sword making. He explained that the craft tradition in Japan had a strong spiritual dimension; that the sword maker would fast and pray for three days before beginning the work; and that (I can’t remember if he used these exact words) the final product was the expression of that inner process.”
->
-> This is reflected (with humor mixed in) in the Hattori Hanzo scene from Kill Bill – Vol 1.  
-> https://www.youtube.com/watch?v=iUnDZl18NRs
+An unnamed author has written:
+
+> My first awareness of Japan came at age 16, when my high school English teacher, for some reason I can’t recall, was discussing Japanese sword making. He explained that the craft tradition in Japan had a strong spiritual dimension; that the sword maker would fast and pray for three days before beginning the work; and that (I can’t remember if he used these exact words) the final product was the expression of that inner process.
+
+This is reflected (with humor mixed in) in the Hattori Hanzo scene from [Kill Bill – Vol 1](https://en.wikipedia.org/wiki/Kill_Bill:_Volume_1): [Watch scene here](https://www.youtube.com/watch?v=iUnDZl18NRs)
 
 ### Meat-cutting
-> Another story, this one about a butcher! This again attributed to [Chuang Tzu](https://en.wikipedia.org/wiki/Zhuang_Zhou) is as follows: Prince Hui’s cook was cutting up a bullock. Every blow of his knife, every heave of his shoulders, every tread of his foot, every whshh of rent flesh, every chhk of the chopper, was in perfect harmony—rhythmical like the Dance of the Mulberry Grove, simultaneous like the chords of the Ching Shou.
+Another story, this one about a butcher! This again attributed to [Chuang Tzu](https://en.wikipedia.org/wiki/Zhuang_Zhou) is as follows: 
+
+> Prince Hui’s cook was cutting up a bullock. Every blow of his knife, every heave of his shoulders, every tread of his foot, every whshh of rent flesh, every chhk of the chopper, was in perfect harmony—rhythmical like the Dance of the Mulberry Grove, simultaneous like the chords of the Ching Shou.
 > 
 > ‘Well done!’ cried the Prince. ‘Yours is skill indeed.’
 > 
