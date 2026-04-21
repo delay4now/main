@@ -69,8 +69,8 @@ A story about a carpenter going about his work in a “spiritual manner” attri
  A Marathi prayer before a meal:
 
 > Vadani Kaval Gheta, Naam Ghya ShriHariche  
-> …………………………………………………………………………………………………………  
-> …………………………………………… , Anna He PurnaBrahma  
+> …………………………………………………………
+> …………………… , Anna He PurnaBrahma  
 > Udar Bharan Nohe, Janije Yadnyakarma
 
 This is translated as "As you take a morsel of food, recite the name of the Lord. …… Food is the very essence of the Divine. Recognize (the act of eating), not as filling up the belly, but as a sacred offering, a sacrificial ritual."
