@@ -82,7 +82,7 @@ An unnamed author has written:
 
 > My first awareness of Japan came at age 16, when my high school English teacher, for some reason I can’t recall, was discussing Japanese sword making. He explained that the craft tradition in Japan had a strong spiritual dimension; that the sword maker would fast and pray for three days before beginning the work; and that (I can’t remember if he used these exact words) the final product was the expression of that inner process.
 
-This is reflected (with humor mixed in) in the Hattori Hanzo scene from [Kill Bill – Vol 1](https://en.wikipedia.org/wiki/Kill_Bill:_Volume_1): [Watch scene here](https://www.youtube.com/watch?v=iUnDZl18NRs)
+This is reflected (with humor mixed in) in the Hattori Hanzo scene from [Kill Bill – Vol 1](https://en.wikipedia.org/wiki/Kill_Bill:_Volume_1): [Watch scene here](https://www.youtube.com/watch?v=iUnDZI18NRs)
 
 ### Meat-cutting
 Another story, this one about a butcher! This again attributed to [Chuang Tzu](https://en.wikipedia.org/wiki/Zhuang_Zhou) is as follows: 
