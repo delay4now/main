@@ -2,7 +2,7 @@
 
 [*The Disciple*](https://en.wikipedia.org/wiki/The_Disciple_(2020_film)) (2020) is a critically acclaimed Marathi language film. It explores the artistic and spiritual journey of Sharad, training to be a classical vocalist. Sharad’s sincerity and idealism conflict with the harsh realities (and spiritual degeneration) of the contemporary, commercial era, bringing forth several deeper themes.
 
-## Devotion to & the Pursuit of the Absolute
+## Devotion to and the Pursuit of the Absolute
 
 ### Maai Tapes
 
