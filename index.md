@@ -7,6 +7,18 @@ the tree: if the rebels could succeed they would find that they had destroyed th
 
 *"The reign of violence will never come to an end until, first, most human beings accept the same, true philosophy of life; until, second, this Perennial Philosophy is recognized as the highest factor common to all the world religions; until, third, the adherents of every religion renounce the idolatrous time-philosophies, with which, in their own particular faith, the Perennial Philosophy of eternity has been overlaid; until, fourth, there is a world-wide rejection of all the political pseudo-religions, which place man's supreme good in future time and therefore justify and commend the commission of every sort of present iniquity as a means to that end. If these conditions are not fulfilled, no amount of political planning, no economic blue-prints however ingeniously drawn, can prevent the recrudescence of war and revolution."*
 
+At the same time, our view is one of eternal hope and optimism rather than despair. While the modern world presents many forms of fragmentation, confusion, and ultimately nihilism, we believe there remains a definitive antidote, as suggested in various scriptures and spiritual traditions:
+
+*"But seek first the kingdom of God and his righteousness, and all these things will be added to you."*  
+— Matthew 6:33
+
+*"Uttiṣṭhata jāgrata prāpya varān nibodhata."*  
+— Katha Upanishad 1.3.14  
+This may be translated as, "Stand up, wake up, imbibe the divine gifts given to you, and spring forth towards the goal".
+
+Likewise, one may say: *seek the Tao* — the Way that precedes ideology, faction, and confusion; the underlying order from which wisdom, balance, and right action emerge (see [here](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/25851/files/2016/02/taoteching-Stephen-Mitchell-translation-v9deoq.pdf)
+ for further reading). 
+
 # Purpose of This Website
 
 Given the complexity of our current geopolitical and cultural climate, it has become increasingly difficult to engage in open conversation without fear of offending someone, let alone to reach meaningful understanding. In this context, we find metaphors and symbols expressed through movies and television shows to be a more effective way of conveying certain ideas.
