@@ -66,7 +66,7 @@ Rather, we suggest watching them as starting points for thought and discussion, 
 
 - **[The Disciple](https://en.wikipedia.org/wiki/The_Disciple_(2020_film))** in Marathi  
   What is music (or any “activity” for that matter) for?
-    - <span style="background-color: yellow; line-height: inherit; margin: 0; padding: 0; display: inline;">Some reflections on the film can be found [here](disciple-reflections-01.md).</span>
+    - <span style="background-color: yellow; line-height: inherit; margin: 0; padding: 0; display: inline;">Some reflections on the film can be found [here](disciple-reflections-01.md).</span>  
 
 - **[Hotel Salvation](https://en.wikipedia.org/wiki/Hotel_Salvation)** in Hindi (released in India as Mukti Bhawan)  
   Can one prepare for death without withdrawing from life?
