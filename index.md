@@ -68,6 +68,10 @@ Rather, we suggest watching them as starting points for thought and discussion, 
   What is music (or any “activity” for that matter) for?
     - <span style="background-color: yellow; line-height: inherit; margin: 0; padding: 0; display: inline;">Some reflections on the film can be found [here](disciple-reflections-01.md).</span>
 
+- **[Hotel Salvation](https://en.wikipedia.org/wiki/Hotel_Salvation)** in Hindi (released in India as Mukti Bhawan)  
+  Can one prepare for death without withdrawing from life?
+    - <span style="background-color: yellow; line-height: inherit; margin: 0; padding: 0; display: inline;">Some reflections on the film can be found [here](hotel-salvation-reflections.md).</span>
+
 - **[Spring, Summer, Fall, Winter... and Spring](https://en.wikipedia.org/wiki/Spring,_Summer,_Fall,_Winter..._and_Spring)** in Korean  
   “Life” is cyclical.
 
