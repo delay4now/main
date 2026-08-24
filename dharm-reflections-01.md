@@ -52,10 +52,21 @@ This also highlights the difference between Chaturvedi and those around him. Whi
 
 ### Chaturvedi and Ascetic
 
-Immediately after the above scene, an Ascetic who would have stopped Chaturvedi's discplicle beating the sweeper confronts Chaturvedi but appealing to equality of all before God. 
+Immediately after the above scene, an ascetic who stopped Chaturvedi's discplicles beating the sweeper confronts Chaturvedi by appealing to equality of all before God. discrenment 
 
 ### Chaturvedi and Dayashankar
 
+
+
+> “janm se brāhmaṇ, karm se vaiśya — dharm ka vyāpār, baṛiyā hai.”
+
 ### Chaturvedi and Vishnu Singh
 
+
+
 ### The Wisdom in the Finale
+
+> saṅgacchadhvaṃ saṃvadadhvaṃ  
+> saṃ vo manāṃsi jānatām  
+> devā bhāgaṃ yathā pūrve  
+> sañjānānā upāsate
