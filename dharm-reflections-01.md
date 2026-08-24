@@ -32,11 +32,11 @@ It is also important that Chaturvedi's own understanding of dharma had to deepen
 
 ## Parallels to the Story of Paraśurāma
 
-In Hindu scripture, [Paraśurāma](https://en.wikipedia.org/wiki/Parashurama) (the sixth [*avatāra*](https://en.wikipedia.org/wiki/Avatar) of [Viṣṇu](https://en.wikipedia.org/wiki/Vishnu)) is a Brāhmaṇa who takes up arms when the Kṣatriya rulers become corrupt and oppressive and cease to govern according to dharma. He ultimately destroys their power in order to restore the proper order between spiritual authority and temporal rule. His story therefore presents an extreme version of the same principle: when Kṣatriya power becomes detached from dharma, the Brāhmaṇa may intervene to bring it back under spiritual authority.
+In Hindu scripture, [Paraśurāma](https://en.wikipedia.org/wiki/Parashurama) (the sixth [*avatāra*](https://en.wikipedia.org/wiki/Avatar) of [Viṣṇu](https://en.wikipedia.org/wiki/Vishnu)) is a Brāhmaṇa who takes up arms when the Kṣatriya rulers become corrupt and cease to govern according to dharma. He ultimately destroys their power in order to restore the proper relationship between spiritual authority and temporal rule. His story therefore presents an extreme version of the principle that when Kṣatriya power becomes detached from dharma, the Brāhmaṇa may intervene to bring it back under spiritual authority.
 
-The ending of *Dharm* operates as a domesticated, nonlethal variation of this Paraśurāma pattern. The Paraśurāma story likewise begins when Kṣatriya power has become detached from dharma and no longer submits to Brāhmaṇa authority. Paraśurāma responds by taking up arms and breaking that power. His purpose is not conquest for its own sake, but the restoration of the proper relationship between temporal power and spiritual law.
+The ending of *Dharm* operates as a domesticated, nonlethal variation of this pattern. Paraśurāma restores order externally, by destroying disordered Kṣatriya power. Chaturvedi does so on a much smaller and more interior scale: he stops the warrior's violence and seeks to transform his understanding rather than destroy him.
 
-Paraśurāma therefore corrects the warrior order externally and catastrophically: the Brāhmaṇa himself takes up arms to destroy disordered Kṣatriya power.
+In both narratives, the Kṣatriya is not permitted to define dharma through the sword. The Brāhmaṇa intervenes, establishes mastery, and reorients power toward its legitimate function. But whereas Paraśurāma restores order through destruction, Chaturvedi restores it through knowledge.
 
 Chaturvedi does this on a much smaller and more interior scale. He seeks to transform the warrior internally, defeating temporal power by arresting its force and revealing its ignorance. He becomes physically capable of stopping the warrior, but his immediate aim is to restore the warrior’s mind, not to destroy the warrior.
 
