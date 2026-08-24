@@ -37,3 +37,25 @@ In Hindu scripture, [Paraśurāma](https://en.wikipedia.org/wiki/Parashurama) (t
 The ending of *Dharm* operates as a domesticated, nonlethal variation of this pattern. Paraśurāma restores order externally, by destroying disordered Kṣatriya power. Chaturvedi does so on a much smaller and more interior scale: he stops the warrior's violence and seeks to transform his understanding rather than destroy him (see also [Quote 10](https://delay4now.github.io/main/gandhi-quotes-01.html#quote-10) in the commentary on the movie [*Gandhi*](https://en.wikipedia.org/wiki/Mahatma_Gandhi)). The difference is not simply one of method. Paraśurāma confronts a form of Kṣatriya disorder that requires destruction, whereas Chaturvedi encounters a situation in which transformation remains possible.
 
 In both narratives, the Kṣatriya is not permitted to define dharma through the sword. The Brāhmaṇa intervenes, establishes mastery, and reorients power toward its legitimate function. Chaturvedi's intervention, however, operates through knowledge: he becomes physically capable of stopping the warrior, but his aim is not to destroy him. By arresting the violence and revealing the warrior's ignorance, he restores the warrior's mind and allows Kṣatriya energy to return to its proper function under dharma.
+
+## Selected Scenes
+
+### Chaturvedi and Sweeper
+
+Near the beginning of the film, a sweeper (presumably from a lower caste or even outside it) accidentally comes into physical contact with Chaturvedi. Chaturvedi reacts according to his understanding of ritual purity, and the incident escalates when those around him begin to beat the sweeper. This is a scene worth highlighting because it shows that Chaturvedi does not cling onto his purity as a possession, and thus is not emotionally disturbed by the contact. He simply sees it as God's will, and thus immediately proceeds to purify himself in the river, without even having a thought of saying anything to the sweeper. This also highlights how others around him do not have the same outlook or are not spritually progressed enough. It is worth noting here that Chaturvedi does not also stop his disciples from beating the sweeper, as he sees taking such action to be outside role in society (and left to the temporal powers). 
+
+### Chaturvedi and the Sweeper
+
+Near the beginning of the film, a sweeper, presumably from a lower caste or even outside the caste system, accidentally comes into physical contact with Chaturvedi. Chaturvedi reacts according to his understanding of ritual purity, and the incident escalates when those around him begin to beat the sweeper. The scene is worth highlighting because it shows that Chaturvedi does not cling to his purity as a possession and is therefore not emotionally disturbed by the contact. He simply accepts the incident as God's will and immediately proceeds to purify himself in the river, without even considering confronting the sweeper.
+
+This also highlights the difference between Chaturvedi and those around him. While he regards the incident as a matter of ritual purification, his disciples respond with anger and violence. Chaturvedi does not intervene to stop them, however, because he appears to regard such coercive action as belonging to the temporal rather than the spiritual domain. 
+
+### Chaturvedi and Ascetic
+
+Immediately after the above scene, an Ascetic who would have stopped Chaturvedi's discplicle beating the sweeper confronts Chaturvedi but appealing to equality of all before God. 
+
+### Chaturvedi and Dayashankar
+
+### Chaturvedi and Vishnu Singh
+
+### The Wisdom in the Finale
