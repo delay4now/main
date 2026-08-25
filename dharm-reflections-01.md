@@ -40,15 +40,11 @@ In both narratives, the Kṣatriya is not permitted to define dharma through the
 
 ## Selected Scenes
 
-### Chaturvedi and Sweeper
-
-Near the beginning of the film, a sweeper (presumably from a lower caste or even outside it) accidentally comes into physical contact with Chaturvedi. Chaturvedi reacts according to his understanding of ritual purity, and the incident escalates when those around him begin to beat the sweeper. This is a scene worth highlighting because it shows that Chaturvedi does not cling onto his purity as a possession, and thus is not emotionally disturbed by the contact. He simply sees it as God's will, and thus immediately proceeds to purify himself in the river, without even having a thought of saying anything to the sweeper. This also highlights how others around him do not have the same outlook or are not spritually progressed enough. It is worth noting here that Chaturvedi does not also stop his disciples from beating the sweeper, as he sees taking such action to be outside role in society (and left to the temporal powers). 
-
 ### Chaturvedi and the Sweeper
 
-Near the beginning of the film, a sweeper, presumably from a lower caste or even outside the caste system, accidentally comes into physical contact with Chaturvedi. Chaturvedi reacts according to his understanding of ritual purity, and the incident escalates when those around him begin to beat the sweeper. The scene is worth highlighting because it shows that Chaturvedi does not cling to his purity as a possession and is therefore not emotionally disturbed by the contact. He simply accepts the incident as God's will and immediately proceeds to purify himself in the river, without even considering confronting the sweeper.
+Near the beginning of the film, a sweeper ([untouchable](https://en.wikipedia.org/wiki/Dalit)), presumably from a lower caste or even outside the caste system, accidentally comes into physical contact with Chaturvedi. Chaturvedi reacts according to his understanding of ritual purity, and the incident only escalates when those around him begin to beat the sweeper. The scene is worth highlighting because it shows that Chaturvedi does not cling to his purity as a possession and is therefore not emotionally disturbed by the contact. He simply accepts the incident as God's will and immediately proceeds to purify himself in the river, without even considering confronting the sweeper.
 
-This also highlights the difference between Chaturvedi and those around him. While he regards the incident as a matter of ritual purification, his disciples respond with anger and violence. Chaturvedi does not intervene to stop them, however, because he appears to regard such coercive action as belonging to the temporal rather than the spiritual domain. 
+This also highlights the difference between Chaturvedi and those around him. While he regards the incident as a matter of ritual purification, his disciples respond with anger and violence. However, Chaturvedi does not intervene to stop them because he appears to regard such coercive action as belonging to the temporal rather than the spiritual domain. 
 
 ### Chaturvedi and Ascetic
 
