@@ -89,7 +89,8 @@ Rather, we suggest watching them as starting points for thought and discussion, 
 
 - **[The Matrix](https://en.wikipedia.org/wiki/The_Matrix)** featuring Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss  
   Red pill?
-    - <span style="background-color: yellow; line-height: inherit; margin: 0; padding: 0; display: inline;">Some reflections on the film can be found [here](matrix-reflections-01.md).</span>  
+    - <span style="background-color: yellow; line-height: inherit; margin: 0; padding: 0; display: inline;">Some reflections on the film can be found [here](matrix-reflections-01.md).</span>
+    - <span style="background-color: yellow; line-height: inherit; margin: 0; padding: 0; display: inline;">Some reflections on Free Will vs. Determinism in the context of this film can be found [here](matrix-reflections-02.md).</span>  
 
 - **[Little Buddha](https://en.wikipedia.org/wiki/Little_Buddha)** featuring Keanu Reeves  
   Buddha.
