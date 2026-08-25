@@ -35,7 +35,7 @@ Are some of these interpretations projections of myself? Sure, but maybe the poi
 
 Interestingly, I learnt from a friend that the credits soundtrack ([see here](https://www.youtube.com/watch?v=re7nmrDbAG4)) is a Sanskrit prayer from the [Upanishads](https://en.wikipedia.org/wiki/Upanishads) whose rough translation is: 
 
-*Lead me from the unreal to the real.
-Lead me from darkness to light.
-Lead me from death to immortality.
+*Lead me from the unreal to the real.  
+Lead me from darkness to light.  
+Lead me from death to immortality.  
 Om, peace, peace, peace.*
